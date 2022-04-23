@@ -48830,313 +48830,313 @@ gfx_data        0x000000000919f8a0   0x4ff5ac
  .debug_pubnames
                 0x000000000006858c    0x43720 src/graphics.o
 
-.debug_info     0x0000000000000000  0x1b54037
+.debug_info     0x0000000000000000  0x1b53e7b
  *(.debug_info .gnu.linkonce.wi.*)
- .debug_info    0x0000000000000000    0x11d24 src/decompress.o
- .debug_info    0x0000000000011d24    0x1ab7e src/main.o
- .debug_info    0x000000000002c8a2    0x11ac3 gflib/window.o
- .debug_info    0x000000000003e365    0x18e0d gflib/text.o
- .debug_info    0x0000000000057172    0x134b4 gflib/sprite.o
- .debug_info    0x000000000006a626    0x12138 gflib/string_util.o
- .debug_info    0x000000000007c75e    0x1c996 src/link.o
- .debug_info    0x00000000000990f4    0x135eb src/AgbRfu_LinkManager.o
- .debug_info    0x00000000000ac6df    0x1436e src/link_rfu_3.o
- .debug_info    0x00000000000c0a4d    0x1b7cc src/link_rfu_2.o
- .debug_info    0x00000000000dc219    0x230f6 src/union_room.o
- .debug_info    0x00000000000ff30f    0x17d5f src/mystery_gift_menu.o
- .debug_info    0x000000000011706e    0x14808 src/union_room_player_avatar.o
- .debug_info    0x000000000012b876    0x164bd src/wireless_communication_status_screen.o
- .debug_info    0x0000000000141d33    0x193ed src/union_room_battle.o
- .debug_info    0x000000000015b120    0x124f7 src/mystery_gift.o
- .debug_info    0x000000000016d617    0x15e9d src/mystery_gift_view.o
- .debug_info    0x00000000001834b4    0x11719 src/mystery_gift_server.o
- .debug_info    0x0000000000194bcd    0x11a8f src/mystery_gift_client.o
- .debug_info    0x00000000001a665c    0x1820f src/union_room_chat.o
- .debug_info    0x00000000001be86b    0x1d0c3 src/berry_crush.o
- .debug_info    0x00000000001db92e    0x1194d src/berry_powder.o
- .debug_info    0x00000000001ed27b    0x1b249 src/dodrio_berry_picking.o
- .debug_info    0x00000000002084c4    0x1df8a src/pokemon_jump.o
- .debug_info    0x000000000022644e    0x15ced src/main_menu.o
- .debug_info    0x000000000023c13b    0x1a82f src/battle_controllers.o
- .debug_info    0x000000000025696a    0x11174 src/digit_obj_util.o
- .debug_info    0x0000000000267ade    0x23660 src/battle_main.o
- .debug_info    0x000000000028b13e    0x337ac src/pokemon.o
- .debug_info    0x00000000002be8ea    0x1058e src/random.o
- .debug_info    0x00000000002cee78    0x181ef src/daycare.o
- .debug_info    0x00000000002e7067    0x11752 src/load_save.o
- .debug_info    0x00000000002f87b9    0x21455 src/trade.o
- .debug_info    0x0000000000319c0e    0x19c41 src/berry_blender.o
- .debug_info    0x000000000033384f    0x1746f src/new_game.o
- .debug_info    0x000000000034acbe    0x1b871 src/overworld.o
- .debug_info    0x000000000036652f    0x14a37 src/fieldmap.o
- .debug_info    0x000000000037af66    0x1264d src/field_camera.o
- .debug_info    0x000000000038d5b3    0x154d6 src/field_player_avatar.o
- .debug_info    0x00000000003a2a89    0x3db1a src/event_object_movement.o
- .debug_info    0x00000000003e05a3    0x11554 src/field_message_box.o
- .debug_info    0x00000000003f1af7    0x1a246 src/scrcmd.o
- .debug_info    0x000000000040bd3d    0x14bb4 src/field_control_avatar.o
- .debug_info    0x00000000004208f1    0x10d55 src/event_data.o
- .debug_info    0x0000000000431646    0x19f4a src/start_menu.o
- .debug_info    0x000000000044b590    0x159e9 src/tileset_anims.o
- .debug_info    0x0000000000460f79    0x11c9b src/palette.o
- .debug_info    0x0000000000472c14    0x16b2e src/sound.o
- .debug_info    0x0000000000489742    0x28010 src/battle_anim.o
- .debug_info    0x00000000004b1752    0x1a313 src/battle_anim_mons.o
- .debug_info    0x00000000004cba65    0x135cb src/field_weather.o
- .debug_info    0x00000000004df030    0x18433 src/field_weather_effect.o
- .debug_info    0x00000000004f7463    0x1a072 src/battle_setup.o
- .debug_info    0x00000000005114d5    0x125e9 src/trainer_see.o
- .debug_info    0x0000000000523abe    0x182d5 src/wild_encounter.o
- .debug_info    0x000000000053bd93    0x1871a src/field_effect.o
- .debug_info    0x00000000005544ad    0x15428 src/scanline_effect.o
- .debug_info    0x00000000005698d5    0x13ebc src/option_menu.o
- .debug_info    0x000000000057d791    0x30067 src/pokedex.o
- .debug_info    0x00000000005ad7f8    0x15e62 src/trainer_card.o
- .debug_info    0x00000000005c365a    0x18d12 src/frontier_pass.o
- .debug_info    0x00000000005dc36c    0x21346 src/pokemon_storage_system.o
- .debug_info    0x00000000005fd6b2    0x11008 src/script_movement.o
- .debug_info    0x000000000060e6ba    0x118b2 src/fldeff_cut.o
- .debug_info    0x000000000061ff6c    0x1268d src/map_name_popup.o
- .debug_info    0x00000000006325f9    0x1bcab src/item.o
- .debug_info    0x000000000064e2a4    0x233a6 src/contest.o
- .debug_info    0x000000000067164a    0x15948 src/shop.o
- .debug_info    0x0000000000686f92    0x10bf1 src/fldeff_escalator.o
- .debug_info    0x0000000000697b83    0x1708e src/script_menu.o
- .debug_info    0x00000000006aec11    0x15a78 src/naming_screen.o
- .debug_info    0x00000000006c4689    0x116fb src/money.o
- .debug_info    0x00000000006d5d84    0x15f71 src/record_mixing.o
- .debug_info    0x00000000006ebcf5    0x1ae84 src/secret_base.o
- .debug_info    0x0000000000706b79    0x243d3 src/tv.o
- .debug_info    0x000000000072af4c    0x1e216 src/contest_util.o
- .debug_info    0x0000000000749162    0x127f2 src/rotating_gate.o
- .debug_info    0x000000000075b954    0x15695 src/safari_zone.o
- .debug_info    0x0000000000770fe9    0x1a696 src/item_use.o
- .debug_info    0x000000000078b67f    0x1e460 src/battle_anim_effects_1.o
- .debug_info    0x00000000007a9adf    0x15bc6 src/battle_anim_dragon.o
- .debug_info    0x00000000007bf6a5    0x18083 src/battle_anim_utility_funcs.o
- .debug_info    0x00000000007d7728    0x16070 src/battle_intro.o
- .debug_info    0x00000000007ed798    0x28a9a src/easy_chat.o
- .debug_info    0x0000000000816232    0x11e43 src/mon_markings.o
- .debug_info    0x0000000000828075    0x16eb6 src/mauville_old_man.o
- .debug_info    0x000000000083ef2b    0x13753 src/mail.o
- .debug_info    0x000000000085267e    0x128ed src/menu_helpers.o
- .debug_info    0x0000000000864f6b    0x17d6a src/region_map.o
- .debug_info    0x000000000087ccd5    0x1c0ea src/decoration.o
- .debug_info    0x0000000000898dbf    0x1b71a src/slot_machine.o
- .debug_info    0x00000000008b44d9    0x16c5c src/battle_ai_main.o
- .debug_info    0x00000000008cb135    0x12bc4 src/fldeff_misc.o
- .debug_info    0x00000000008ddcf9    0x19c12 src/pokeblock.o
- .debug_info    0x00000000008f790b    0x20c14 src/field_specials.o
- .debug_info    0x000000000091851f    0x17eb7 src/battle_records.o
- .debug_info    0x00000000009303d6    0x132fd src/pokedex_area_screen.o
- .debug_info    0x00000000009436d3    0x1b38b src/evolution_scene.o
- .debug_info    0x000000000095ea5e    0x18407 src/roulette.o
- .debug_info    0x0000000000976e65    0x12b1b src/pokedex_cry_screen.o
- .debug_info    0x0000000000989980    0x1178d src/coins.o
- .debug_info    0x000000000099b10d    0x1d01e src/battle_transition.o
- .debug_info    0x00000000009b812b    0x24360 src/battle_message.o
- .debug_info    0x00000000009dc48b    0x139da src/cable_car.o
- .debug_info    0x00000000009efe65    0x10ca3 src/confetti_util.o
- .debug_info    0x0000000000a00b08    0x127bf src/save.o
- .debug_info    0x0000000000a132c7    0x12c82 src/mystery_event_script.o
- .debug_info    0x0000000000a25f49    0x17a0a src/move_relearner.o
- .debug_info    0x0000000000a3d953    0x10b6d src/decoration_inventory.o
- .debug_info    0x0000000000a4e4c0    0x10873 src/roamer.o
- .debug_info    0x0000000000a5ed33    0x29ced src/battle_tower.o
- .debug_info    0x0000000000a88a20    0x16288 src/use_pokeblock.o
- .debug_info    0x0000000000a9eca8    0x16143 src/player_pc.o
- .debug_info    0x0000000000ab4deb    0x1617b src/intro.o
- .debug_info    0x0000000000acaf66    0x12493 src/field_region_map.o
- .debug_info    0x0000000000add3f9    0x154d2 src/hall_of_fame.o
- .debug_info    0x0000000000af28cb    0x194c7 src/credits.o
- .debug_info    0x0000000000b0bd92    0x11188 src/lottery_corner.o
- .debug_info    0x0000000000b1cf1a    0x11f43 src/diploma.o
- .debug_info    0x0000000000b2ee5d    0x135e3 src/berry_tag_screen.o
- .debug_info    0x0000000000b42440    0x124c1 src/mystery_event_menu.o
- .debug_info    0x0000000000b54901    0x123bf src/save_failed_screen.o
- .debug_info    0x0000000000b66cc0    0x10f83 src/braille_puzzles.o
- .debug_info    0x0000000000b77c43    0x196dd src/pokeblock_feed.o
- .debug_info    0x0000000000b91320    0x123cf src/intro_credits_graphics.o
- .debug_info    0x0000000000ba36ef    0x18d0d src/recorded_battle.o
- .debug_info    0x0000000000bbc3fc    0x11b1a src/trainer_pokemon_sprites.o
- .debug_info    0x0000000000bcdf16    0x15dde src/lilycove_lady.o
- .debug_info    0x0000000000be3cf4    0x1d209 src/battle_dome.o
- .debug_info    0x0000000000c00efd    0x1cb8a src/match_call.o
- .debug_info    0x0000000000c1da87    0x15c49 src/menu.o
- .debug_info    0x0000000000c336d0    0x1ad0b src/battle_factory_screen.o
- .debug_info    0x0000000000c4e3db    0x1103a src/rotating_tile_puzzle.o
- .debug_info    0x0000000000c5f415    0x1c52d src/item_menu.o
- .debug_info    0x0000000000c7b942    0x13c29 src/list_menu.o
- .debug_info    0x0000000000c8f56b    0x10e88 src/dynamic_placeholder_text_util.o
- .debug_info    0x0000000000ca03f3    0x1fb97 src/item_icon.o
- .debug_info    0x0000000000cbff8a    0x2a0e3 src/party_menu.o
- .debug_info    0x0000000000cea06d    0x12d52 src/mirage_tower.o
- .debug_info    0x0000000000cfcdbf    0x29f2f src/pokemon_summary_screen.o
- .debug_info    0x0000000000d26cee    0x1198a src/pokedex_area_region_map.o
- .debug_info    0x0000000000d38678    0x1ae2b src/battle_pyramid_bag.o
- .debug_info    0x0000000000d534a3    0x137f7 src/pokenav.o
- .debug_info    0x0000000000d66c9a    0x14814 src/pokenav_list.o
- .debug_info    0x0000000000d7b4ae    0x14a8e src/menu_specialized.o
- .debug_info    0x0000000000d8ff3c    0x11ba3 src/faraway_island.o
- .debug_info    0x0000000000da1adf    0x18c5c src/trainer_hill.o
- .debug_info    0x0000000000dba73b    0x15575 src/rayquaza_scene.o
- .debug_info    0x0000000000dcfcb0    0x10944 gflib/malloc.o
- .debug_info    0x0000000000de05f4    0x1097b gflib/dma3_manager.o
- .debug_info    0x0000000000df0f6f    0x108d7 gflib/gpu_regs.o
- .debug_info    0x0000000000e01846    0x12074 gflib/bg.o
- .debug_info    0x0000000000e138ba    0x115d2 src/rtc.o
- .debug_info    0x0000000000e24e8c    0x19ab2 src/egg_hatch.o
- .debug_info    0x0000000000e3e93e    0x105cc src/play_time.o
- .debug_info    0x0000000000e4ef0a    0x1152f src/script.o
- .debug_info    0x0000000000e60439    0x194cc src/contest_painting.o
- .debug_info    0x0000000000e79905    0x13077 src/starter_choose.o
- .debug_info    0x0000000000e8c97c    0x196f4 src/pokemon_animation.o
- .debug_info    0x0000000000ea6070    0x16257 src/battle_factory.o
- .debug_info    0x0000000000ebc2c7    0x1725f src/battle_pike.o
- .debug_info    0x0000000000ed3526    0x165b7 src/battle_tent.o
- .debug_info    0x0000000000ee9add    0x107ee src/multiboot.o
- .debug_info    0x0000000000efa2cb    0x133d6 src/berry_fix_program.o
- .debug_info    0x0000000000f0d6a1    0x148f0 src/pokenav_conditions_gfx.o
- .debug_info    0x0000000000f21f91    0x162b4 src/pokenav_ribbons_summary.o
- .debug_info    0x0000000000f38245    0x14399 src/ereader_helpers.o
- .debug_info    0x0000000000f4c5de     0x3d6d src/m4a.o
- .debug_info    0x0000000000f5034b    0x11982 src/rom_header_gf.o
- .debug_info    0x0000000000f61ccd    0x10afa gflib/blit.o
- .debug_info    0x0000000000f727c7    0x135b1 src/mystery_gift_link.o
- .debug_info    0x0000000000f85d78    0x10c27 src/wonder_news.o
- .debug_info    0x0000000000f9699f    0x1398e src/minigame_countdown.o
- .debug_info    0x0000000000faa32d    0x18a47 src/battle_bg.o
- .debug_info    0x0000000000fc2d74    0x21b29 src/battle_util.o
- .debug_info    0x0000000000fe489d    0x23f59 src/battle_script_commands.o
- .debug_info    0x00000000010087f6    0x16633 src/battle_util2.o
- .debug_info    0x000000000101ee29    0x1c67a src/battle_controller_player.o
- .debug_info    0x000000000103b4a3    0x1b07a src/battle_gfx_sfx_util.o
- .debug_info    0x000000000105651d    0x1b265 src/battle_controller_opponent.o
- .debug_info    0x0000000001071782    0x17323 src/battle_ai_switch_items.o
- .debug_info    0x0000000001088aa5    0x1ac51 src/battle_controller_link_opponent.o
- .debug_info    0x00000000010a36f6    0x1b4ee src/battle_debug.o
- .debug_info    0x00000000010bebe4    0x1061a src/trig.o
- .debug_info    0x00000000010cf1fe    0x10e34 src/util.o
- .debug_info    0x00000000010e0032    0x1c2c1 src/battle_interface.o
- .debug_info    0x00000000010fc2f3    0x10d50 src/battle_anim_smokescreen.o
- .debug_info    0x000000000110d043    0x181ce src/pokeball.o
- .debug_info    0x0000000001125211    0x134b3 src/metatile_behavior.o
- .debug_info    0x00000000011386c4    0x13174 src/field_door.o
- .debug_info    0x000000000114b838    0x10c43 src/event_object_lock.o
- .debug_info    0x000000000115c47b    0x1207b src/text_window.o
- .debug_info    0x000000000116e4f6    0x112fc src/coord_event_weather.o
- .debug_info    0x000000000117f7f2    0x11e43 src/field_tasks.o
- .debug_info    0x0000000001191635    0x11677 src/clock.o
- .debug_info    0x00000000011a2cac    0x129a1 src/reset_rtc_screen.o
- .debug_info    0x00000000011b564d    0x1092a src/task.o
- .debug_info    0x00000000011c5f77    0x17d6f src/reshow_battle_screen.o
- .debug_info    0x00000000011ddce6    0x15c06 src/battle_anim_status_effects.o
- .debug_info    0x00000000011f38ec    0x17258 src/title_screen.o
- .debug_info    0x000000000120ab44    0x162ad src/field_screen_effect.o
- .debug_info    0x0000000001220df1    0x1d243 src/cable_club.o
- .debug_info    0x000000000123e034    0x1e913 src/pokemon_icon.o
- .debug_info    0x000000000125c947    0x118d4 src/mail_data.o
- .debug_info    0x000000000126e21b    0x137f1 src/item_menu_icons.o
- .debug_info    0x0000000001281a0c    0x15bb2 src/battle_anim_mon_movement.o
- .debug_info    0x00000000012975be    0x14991 src/berry.o
- .debug_info    0x00000000012abf4f    0x1322b src/contest_effect.o
- .debug_info    0x00000000012bf17a    0x18f6d src/script_pokemon_util.o
- .debug_info    0x00000000012d80e7    0x16d63 src/field_poison.o
- .debug_info    0x00000000012eee4a    0x1187c src/pokemon_size_record.o
- .debug_info    0x00000000013006c6    0x11502 src/field_special_scene.o
- .debug_info    0x0000000001311bc8    0x12f65 src/contest_link.o
- .debug_info    0x0000000001324b2d    0x1abd2 src/battle_anim_effects_2.o
- .debug_info    0x000000000133f6ff    0x176d9 src/battle_anim_water.o
- .debug_info    0x0000000001356dd8    0x16394 src/battle_anim_fire.o
- .debug_info    0x000000000136d16c    0x166d5 src/battle_anim_electric.o
- .debug_info    0x0000000001383841    0x17c6c src/battle_anim_ice.o
- .debug_info    0x000000000139b4ad    0x161b4 src/battle_anim_fight.o
- .debug_info    0x00000000013b1661    0x159d0 src/battle_anim_poison.o
- .debug_info    0x00000000013c7031    0x16562 src/battle_anim_flying.o
- .debug_info    0x00000000013dd593    0x167b4 src/battle_anim_psychic.o
- .debug_info    0x00000000013f3d47    0x15694 src/battle_anim_bug.o
- .debug_info    0x00000000014093db    0x1614c src/battle_anim_rock.o
- .debug_info    0x000000000141f527    0x16715 src/battle_anim_ghost.o
- .debug_info    0x0000000001435c3c    0x17c7a src/battle_anim_dark.o
- .debug_info    0x000000000144d8b6    0x15b97 src/battle_anim_ground.o
- .debug_info    0x000000000146344d    0x16507 src/battle_anim_normal.o
- .debug_info    0x0000000001479954    0x1d2d4 src/battle_anim_new.o
- .debug_info    0x0000000001496c28    0x1252d src/bike.o
- .debug_info    0x00000000014a9155    0x125cb src/dewford_trend.o
- .debug_info    0x00000000014bb720    0x10631 src/heal_location.o
- .debug_info    0x00000000014cbd51    0x11d7c src/image_processing_effects.o
- .debug_info    0x00000000014ddacd    0x1a083 src/battle_ai_util.o
- .debug_info    0x00000000014f7b50    0x11d77 src/trader.o
- .debug_info    0x00000000015098c7    0x12824 src/wallclock.o
- .debug_info    0x000000000151c0eb    0x11137 src/fldeff_rocksmash.o
- .debug_info    0x000000000152d222    0x10b1f src/fldeff_dig.o
- .debug_info    0x000000000153dd41    0x11571 src/fldeff_flash.o
- .debug_info    0x000000000154f2b2    0x10ad0 src/post_battle_event_funcs.o
- .debug_info    0x000000000155fd82    0x11645 src/time_events.o
- .debug_info    0x00000000015713c7    0x10c33 src/birch_pc.o
- .debug_info    0x0000000001581ffa    0x10cd0 src/hof_pc.o
- .debug_info    0x0000000001592cca    0x11cac src/landmark.o
- .debug_info    0x00000000015a4976    0x10c10 src/fldeff_strength.o
- .debug_info    0x00000000015b5586    0x1aaeb src/battle_controller_link_partner.o
- .debug_info    0x00000000015d0071    0x10735 src/math_util.o
- .debug_info    0x00000000015e07a6    0x114ae src/palette_util.o
- .debug_info    0x00000000015f1c54    0x137d3 src/field_effect_helpers.o
- .debug_info    0x0000000001605427    0x186a7 src/contest_ai.o
- .debug_info    0x000000000161dace    0x18251 src/battle_anim_sound_tasks.o
- .debug_info    0x0000000001635d1f    0x1a483 src/battle_controller_safari.o
- .debug_info    0x00000000016501a2    0x11b6e src/fldeff_sweetscent.o
- .debug_info    0x0000000001661d10    0x1bf1c src/battle_anim_effects_3.o
- .debug_info    0x000000000167dc2c    0x1168b src/fldeff_softboiled.o
- .debug_info    0x000000000168f2b7    0x1af28 src/battle_controller_wally.o
- .debug_info    0x00000000016aa1df    0x11d83 src/reload_save.o
- .debug_info    0x00000000016bbf62    0x1a255 src/battle_anim_throw.o
- .debug_info    0x00000000016d61b7    0x11c86 src/clear_save_data_screen.o
- .debug_info    0x00000000016e7e3d    0x1154a src/evolution_graphics.o
- .debug_info    0x00000000016f9387    0x11e20 src/bard_music.o
- .debug_info    0x000000000170b1a7    0x10ac0 src/fldeff_teleport.o
- .debug_info    0x000000000171bc67    0x16036 src/battle_tv.o
- .debug_info    0x0000000001731c9d    0x1ade3 src/battle_controller_recorded_opponent.o
- .debug_info    0x000000000174ca80    0x1a603 src/battle_controller_recorded_player.o
- .debug_info    0x0000000001767083    0x113ae src/battle_palace.o
- .debug_info    0x0000000001778431    0x1c823 src/apprentice.o
- .debug_info    0x0000000001794c54    0x1b125 src/frontier_util.o
- .debug_info    0x00000000017afd79    0x17f8d src/battle_arena.o
- .debug_info    0x00000000017c7d06    0x1b5c8 src/battle_pyramid.o
- .debug_info    0x00000000017e32ce    0x10749 src/save_location.o
- .debug_info    0x00000000017f3a17    0x11282 src/braille.o
- .debug_info    0x0000000001804c99    0x10926 src/berry_fix_graphics.o
- .debug_info    0x00000000018155bf    0x1b2d2 src/battle_controller_player_partner.o
- .debug_info    0x0000000001830891    0x14891 src/pokenav_main_menu.o
- .debug_info    0x0000000001845122    0x12805 src/pokenav_menu_handler.o
- .debug_info    0x0000000001857927    0x152c6 src/pokenav_menu_handler_gfx.o
- .debug_info    0x000000000186cbed    0x19e4e src/pokenav_match_call_list.o
- .debug_info    0x0000000001886a3b    0x15ad8 src/pokenav_match_call_gfx.o
- .debug_info    0x000000000189c513    0x1486f src/pokenav_region_map.o
- .debug_info    0x00000000018b0d82    0x148de src/pokenav_conditions.o
- .debug_info    0x00000000018c5660    0x14219 src/pokenav_conditions_search_results.o
- .debug_info    0x00000000018d9879    0x141f2 src/pokenav_ribbons_list.o
- .debug_info    0x00000000018eda6b    0x1add7 src/pokenav_match_call_data.o
- .debug_info    0x0000000001908842    0x120ec src/ereader_screen.o
- .debug_info    0x000000000191a92e    0x11822 src/walda_phrase.o
- .debug_info    0x000000000192c150    0x12d73 src/contest_link_util.o
- .debug_info    0x000000000193eec3    0x10c86 src/gym_leader_rematch.o
- .debug_info    0x000000000194fb49    0x12051 src/battle_transition_frontier.o
- .debug_info    0x0000000001961b9a    0x11eb2 src/international_string_util.o
- .debug_info    0x0000000001973a4c    0x1b4df src/pokemon_debug.o
- .debug_info    0x000000000198ef2b    0x11dd0 src/librfu_stwi.o
- .debug_info    0x00000000019a0cfb    0x13c53 src/librfu_rfu.o
- .debug_info    0x00000000019b494e    0x114f2 src/librfu_sio32id.o
- .debug_info    0x00000000019c5e40     0x1342 src/libisagbprn.o
- .debug_info    0x00000000019c7182    0x1053a gflib/io_reg.o
- .debug_info    0x00000000019d76bc    0x11b7e src/mystery_gift_scripts.o
- .debug_info    0x00000000019e923a    0x75b2e src/data.o
- .debug_info    0x0000000001a5ed68    0x2811a src/strings.o
- .debug_info    0x0000000001a86e82    0x11231 src/text_input_strings.o
- .debug_info    0x0000000001a980b3    0x108c4 src/fonts.o
- .debug_info    0x0000000001aa8977    0x10745 src/mystery_event_msg.o
- .debug_info    0x0000000001ab90bc     0x2001 src/m4a_tables.o
- .debug_info    0x0000000001abb0bd      0xdbb src/agb_flash_le.o
- .debug_info    0x0000000001abbe78    0x981bf src/graphics.o
+ .debug_info    0x0000000000000000    0x11d20 src/decompress.o
+ .debug_info    0x0000000000011d20    0x1ab7a src/main.o
+ .debug_info    0x000000000002c89a    0x11abf gflib/window.o
+ .debug_info    0x000000000003e359    0x18e0d gflib/text.o
+ .debug_info    0x0000000000057166    0x134b4 gflib/sprite.o
+ .debug_info    0x000000000006a61a    0x12138 gflib/string_util.o
+ .debug_info    0x000000000007c752    0x1c992 src/link.o
+ .debug_info    0x00000000000990e4    0x135eb src/AgbRfu_LinkManager.o
+ .debug_info    0x00000000000ac6cf    0x1436a src/link_rfu_3.o
+ .debug_info    0x00000000000c0a39    0x1b7c8 src/link_rfu_2.o
+ .debug_info    0x00000000000dc201    0x230f2 src/union_room.o
+ .debug_info    0x00000000000ff2f3    0x17d5b src/mystery_gift_menu.o
+ .debug_info    0x000000000011704e    0x14808 src/union_room_player_avatar.o
+ .debug_info    0x000000000012b856    0x164b9 src/wireless_communication_status_screen.o
+ .debug_info    0x0000000000141d0f    0x193e9 src/union_room_battle.o
+ .debug_info    0x000000000015b0f8    0x124f7 src/mystery_gift.o
+ .debug_info    0x000000000016d5ef    0x15e99 src/mystery_gift_view.o
+ .debug_info    0x0000000000183488    0x11715 src/mystery_gift_server.o
+ .debug_info    0x0000000000194b9d    0x11a8b src/mystery_gift_client.o
+ .debug_info    0x00000000001a6628    0x1820b src/union_room_chat.o
+ .debug_info    0x00000000001be833    0x1d0bf src/berry_crush.o
+ .debug_info    0x00000000001db8f2    0x1194d src/berry_powder.o
+ .debug_info    0x00000000001ed23f    0x1b245 src/dodrio_berry_picking.o
+ .debug_info    0x0000000000208484    0x1df86 src/pokemon_jump.o
+ .debug_info    0x000000000022640a    0x15ced src/main_menu.o
+ .debug_info    0x000000000023c0f7    0x1a82f src/battle_controllers.o
+ .debug_info    0x0000000000256926    0x11170 src/digit_obj_util.o
+ .debug_info    0x0000000000267a96    0x2365c src/battle_main.o
+ .debug_info    0x000000000028b0f2    0x337a8 src/pokemon.o
+ .debug_info    0x00000000002be89a    0x1058e src/random.o
+ .debug_info    0x00000000002cee28    0x181ef src/daycare.o
+ .debug_info    0x00000000002e7017    0x1174e src/load_save.o
+ .debug_info    0x00000000002f8765    0x21451 src/trade.o
+ .debug_info    0x0000000000319bb6    0x19c3d src/berry_blender.o
+ .debug_info    0x00000000003337f3    0x1746f src/new_game.o
+ .debug_info    0x000000000034ac62    0x1b86d src/overworld.o
+ .debug_info    0x00000000003664cf    0x14a37 src/fieldmap.o
+ .debug_info    0x000000000037af06    0x1264d src/field_camera.o
+ .debug_info    0x000000000038d553    0x154d6 src/field_player_avatar.o
+ .debug_info    0x00000000003a2a29    0x3db16 src/event_object_movement.o
+ .debug_info    0x00000000003e053f    0x11554 src/field_message_box.o
+ .debug_info    0x00000000003f1a93    0x1a246 src/scrcmd.o
+ .debug_info    0x000000000040bcd9    0x14bb4 src/field_control_avatar.o
+ .debug_info    0x000000000042088d    0x10d55 src/event_data.o
+ .debug_info    0x00000000004315e2    0x19f4a src/start_menu.o
+ .debug_info    0x000000000044b52c    0x159e9 src/tileset_anims.o
+ .debug_info    0x0000000000460f15    0x11c9b src/palette.o
+ .debug_info    0x0000000000472bb0    0x16b2e src/sound.o
+ .debug_info    0x00000000004896de    0x28010 src/battle_anim.o
+ .debug_info    0x00000000004b16ee    0x1a30f src/battle_anim_mons.o
+ .debug_info    0x00000000004cb9fd    0x135cb src/field_weather.o
+ .debug_info    0x00000000004defc8    0x18433 src/field_weather_effect.o
+ .debug_info    0x00000000004f73fb    0x1a072 src/battle_setup.o
+ .debug_info    0x000000000051146d    0x125e9 src/trainer_see.o
+ .debug_info    0x0000000000523a56    0x182d5 src/wild_encounter.o
+ .debug_info    0x000000000053bd2b    0x1871a src/field_effect.o
+ .debug_info    0x0000000000554445    0x15428 src/scanline_effect.o
+ .debug_info    0x000000000056986d    0x13ebc src/option_menu.o
+ .debug_info    0x000000000057d729    0x30063 src/pokedex.o
+ .debug_info    0x00000000005ad78c    0x15e5e src/trainer_card.o
+ .debug_info    0x00000000005c35ea    0x18d0e src/frontier_pass.o
+ .debug_info    0x00000000005dc2f8    0x21342 src/pokemon_storage_system.o
+ .debug_info    0x00000000005fd63a    0x11008 src/script_movement.o
+ .debug_info    0x000000000060e642    0x118ae src/fldeff_cut.o
+ .debug_info    0x000000000061fef0    0x1268d src/map_name_popup.o
+ .debug_info    0x000000000063257d    0x1bca7 src/item.o
+ .debug_info    0x000000000064e224    0x233a2 src/contest.o
+ .debug_info    0x00000000006715c6    0x15944 src/shop.o
+ .debug_info    0x0000000000686f0a    0x10bf1 src/fldeff_escalator.o
+ .debug_info    0x0000000000697afb    0x1708e src/script_menu.o
+ .debug_info    0x00000000006aeb89    0x15a74 src/naming_screen.o
+ .debug_info    0x00000000006c45fd    0x116fb src/money.o
+ .debug_info    0x00000000006d5cf8    0x15f6d src/record_mixing.o
+ .debug_info    0x00000000006ebc65    0x1ae80 src/secret_base.o
+ .debug_info    0x0000000000706ae5    0x243cf src/tv.o
+ .debug_info    0x000000000072aeb4    0x1e212 src/contest_util.o
+ .debug_info    0x00000000007490c6    0x127f2 src/rotating_gate.o
+ .debug_info    0x000000000075b8b8    0x15695 src/safari_zone.o
+ .debug_info    0x0000000000770f4d    0x1a696 src/item_use.o
+ .debug_info    0x000000000078b5e3    0x1e45c src/battle_anim_effects_1.o
+ .debug_info    0x00000000007a9a3f    0x15bc6 src/battle_anim_dragon.o
+ .debug_info    0x00000000007bf605    0x1807f src/battle_anim_utility_funcs.o
+ .debug_info    0x00000000007d7684    0x16070 src/battle_intro.o
+ .debug_info    0x00000000007ed6f4    0x28a96 src/easy_chat.o
+ .debug_info    0x000000000081618a    0x11e43 src/mon_markings.o
+ .debug_info    0x0000000000827fcd    0x16eb6 src/mauville_old_man.o
+ .debug_info    0x000000000083ee83    0x1374f src/mail.o
+ .debug_info    0x00000000008525d2    0x128ed src/menu_helpers.o
+ .debug_info    0x0000000000864ebf    0x17d66 src/region_map.o
+ .debug_info    0x000000000087cc25    0x1c0e6 src/decoration.o
+ .debug_info    0x0000000000898d0b    0x1b716 src/slot_machine.o
+ .debug_info    0x00000000008b4421    0x16c58 src/battle_ai_main.o
+ .debug_info    0x00000000008cb079    0x12bc4 src/fldeff_misc.o
+ .debug_info    0x00000000008ddc3d    0x19c0e src/pokeblock.o
+ .debug_info    0x00000000008f784b    0x20c10 src/field_specials.o
+ .debug_info    0x000000000091845b    0x17eb3 src/battle_records.o
+ .debug_info    0x000000000093030e    0x132f9 src/pokedex_area_screen.o
+ .debug_info    0x0000000000943607    0x1b387 src/evolution_scene.o
+ .debug_info    0x000000000095e98e    0x18403 src/roulette.o
+ .debug_info    0x0000000000976d91    0x12b17 src/pokedex_cry_screen.o
+ .debug_info    0x00000000009898a8    0x1178d src/coins.o
+ .debug_info    0x000000000099b035    0x1d01a src/battle_transition.o
+ .debug_info    0x00000000009b804f    0x24360 src/battle_message.o
+ .debug_info    0x00000000009dc3af    0x139d6 src/cable_car.o
+ .debug_info    0x00000000009efd85    0x10c9f src/confetti_util.o
+ .debug_info    0x0000000000a00a24    0x127bf src/save.o
+ .debug_info    0x0000000000a131e3    0x12c82 src/mystery_event_script.o
+ .debug_info    0x0000000000a25e65    0x17a06 src/move_relearner.o
+ .debug_info    0x0000000000a3d86b    0x10b6d src/decoration_inventory.o
+ .debug_info    0x0000000000a4e3d8    0x10873 src/roamer.o
+ .debug_info    0x0000000000a5ec4b    0x29ced src/battle_tower.o
+ .debug_info    0x0000000000a88938    0x16284 src/use_pokeblock.o
+ .debug_info    0x0000000000a9ebbc    0x1613f src/player_pc.o
+ .debug_info    0x0000000000ab4cfb    0x16177 src/intro.o
+ .debug_info    0x0000000000acae72    0x1248f src/field_region_map.o
+ .debug_info    0x0000000000add301    0x154ce src/hall_of_fame.o
+ .debug_info    0x0000000000af27cf    0x194c3 src/credits.o
+ .debug_info    0x0000000000b0bc92    0x11188 src/lottery_corner.o
+ .debug_info    0x0000000000b1ce1a    0x11f3f src/diploma.o
+ .debug_info    0x0000000000b2ed59    0x135df src/berry_tag_screen.o
+ .debug_info    0x0000000000b42338    0x124c1 src/mystery_event_menu.o
+ .debug_info    0x0000000000b547f9    0x123bf src/save_failed_screen.o
+ .debug_info    0x0000000000b66bb8    0x10f83 src/braille_puzzles.o
+ .debug_info    0x0000000000b77b3b    0x196d9 src/pokeblock_feed.o
+ .debug_info    0x0000000000b91214    0x123cf src/intro_credits_graphics.o
+ .debug_info    0x0000000000ba35e3    0x18d09 src/recorded_battle.o
+ .debug_info    0x0000000000bbc2ec    0x11b16 src/trainer_pokemon_sprites.o
+ .debug_info    0x0000000000bcde02    0x15dde src/lilycove_lady.o
+ .debug_info    0x0000000000be3be0    0x1d205 src/battle_dome.o
+ .debug_info    0x0000000000c00de5    0x1cb86 src/match_call.o
+ .debug_info    0x0000000000c1d96b    0x15c45 src/menu.o
+ .debug_info    0x0000000000c335b0    0x1ad07 src/battle_factory_screen.o
+ .debug_info    0x0000000000c4e2b7    0x11036 src/rotating_tile_puzzle.o
+ .debug_info    0x0000000000c5f2ed    0x1c529 src/item_menu.o
+ .debug_info    0x0000000000c7b816    0x13c25 src/list_menu.o
+ .debug_info    0x0000000000c8f43b    0x10e88 src/dynamic_placeholder_text_util.o
+ .debug_info    0x0000000000ca02c3    0x1fb93 src/item_icon.o
+ .debug_info    0x0000000000cbfe56    0x2a0df src/party_menu.o
+ .debug_info    0x0000000000ce9f35    0x12d4e src/mirage_tower.o
+ .debug_info    0x0000000000cfcc83    0x29f2b src/pokemon_summary_screen.o
+ .debug_info    0x0000000000d26bae    0x11986 src/pokedex_area_region_map.o
+ .debug_info    0x0000000000d38534    0x1ae27 src/battle_pyramid_bag.o
+ .debug_info    0x0000000000d5335b    0x137f3 src/pokenav.o
+ .debug_info    0x0000000000d66b4e    0x14814 src/pokenav_list.o
+ .debug_info    0x0000000000d7b362    0x14a8a src/menu_specialized.o
+ .debug_info    0x0000000000d8fdec    0x11ba3 src/faraway_island.o
+ .debug_info    0x0000000000da198f    0x18c58 src/trainer_hill.o
+ .debug_info    0x0000000000dba5e7    0x15571 src/rayquaza_scene.o
+ .debug_info    0x0000000000dcfb58    0x10944 gflib/malloc.o
+ .debug_info    0x0000000000de049c    0x1097b gflib/dma3_manager.o
+ .debug_info    0x0000000000df0e17    0x108d7 gflib/gpu_regs.o
+ .debug_info    0x0000000000e016ee    0x12074 gflib/bg.o
+ .debug_info    0x0000000000e13762    0x115d2 src/rtc.o
+ .debug_info    0x0000000000e24d34    0x19aae src/egg_hatch.o
+ .debug_info    0x0000000000e3e7e2    0x105cc src/play_time.o
+ .debug_info    0x0000000000e4edae    0x1152f src/script.o
+ .debug_info    0x0000000000e602dd    0x194c8 src/contest_painting.o
+ .debug_info    0x0000000000e797a5    0x13077 src/starter_choose.o
+ .debug_info    0x0000000000e8c81c    0x196f4 src/pokemon_animation.o
+ .debug_info    0x0000000000ea5f10    0x16257 src/battle_factory.o
+ .debug_info    0x0000000000ebc167    0x1725b src/battle_pike.o
+ .debug_info    0x0000000000ed33c2    0x165b7 src/battle_tent.o
+ .debug_info    0x0000000000ee9979    0x107ee src/multiboot.o
+ .debug_info    0x0000000000efa167    0x133d2 src/berry_fix_program.o
+ .debug_info    0x0000000000f0d539    0x148f0 src/pokenav_conditions_gfx.o
+ .debug_info    0x0000000000f21e29    0x162b4 src/pokenav_ribbons_summary.o
+ .debug_info    0x0000000000f380dd    0x14395 src/ereader_helpers.o
+ .debug_info    0x0000000000f4c472     0x3d6d src/m4a.o
+ .debug_info    0x0000000000f501df    0x11982 src/rom_header_gf.o
+ .debug_info    0x0000000000f61b61    0x10afa gflib/blit.o
+ .debug_info    0x0000000000f7265b    0x135ad src/mystery_gift_link.o
+ .debug_info    0x0000000000f85c08    0x10c27 src/wonder_news.o
+ .debug_info    0x0000000000f9682f    0x1398e src/minigame_countdown.o
+ .debug_info    0x0000000000faa1bd    0x18a47 src/battle_bg.o
+ .debug_info    0x0000000000fc2c04    0x21b25 src/battle_util.o
+ .debug_info    0x0000000000fe4729    0x23f59 src/battle_script_commands.o
+ .debug_info    0x0000000001008682    0x1662f src/battle_util2.o
+ .debug_info    0x000000000101ecb1    0x1c67a src/battle_controller_player.o
+ .debug_info    0x000000000103b32b    0x1b076 src/battle_gfx_sfx_util.o
+ .debug_info    0x00000000010563a1    0x1b265 src/battle_controller_opponent.o
+ .debug_info    0x0000000001071606    0x17323 src/battle_ai_switch_items.o
+ .debug_info    0x0000000001088929    0x1ac51 src/battle_controller_link_opponent.o
+ .debug_info    0x00000000010a357a    0x1b4ea src/battle_debug.o
+ .debug_info    0x00000000010bea64    0x1061a src/trig.o
+ .debug_info    0x00000000010cf07e    0x10e34 src/util.o
+ .debug_info    0x00000000010dfeb2    0x1c2bd src/battle_interface.o
+ .debug_info    0x00000000010fc16f    0x10d50 src/battle_anim_smokescreen.o
+ .debug_info    0x000000000110cebf    0x181ce src/pokeball.o
+ .debug_info    0x000000000112508d    0x134b3 src/metatile_behavior.o
+ .debug_info    0x0000000001138540    0x13174 src/field_door.o
+ .debug_info    0x000000000114b6b4    0x10c43 src/event_object_lock.o
+ .debug_info    0x000000000115c2f7    0x1207b src/text_window.o
+ .debug_info    0x000000000116e372    0x112fc src/coord_event_weather.o
+ .debug_info    0x000000000117f66e    0x11e43 src/field_tasks.o
+ .debug_info    0x00000000011914b1    0x11677 src/clock.o
+ .debug_info    0x00000000011a2b28    0x129a1 src/reset_rtc_screen.o
+ .debug_info    0x00000000011b54c9    0x1092a src/task.o
+ .debug_info    0x00000000011c5df3    0x17d6f src/reshow_battle_screen.o
+ .debug_info    0x00000000011ddb62    0x15c06 src/battle_anim_status_effects.o
+ .debug_info    0x00000000011f3768    0x17258 src/title_screen.o
+ .debug_info    0x000000000120a9c0    0x162ad src/field_screen_effect.o
+ .debug_info    0x0000000001220c6d    0x1d243 src/cable_club.o
+ .debug_info    0x000000000123deb0    0x1e913 src/pokemon_icon.o
+ .debug_info    0x000000000125c7c3    0x118d4 src/mail_data.o
+ .debug_info    0x000000000126e097    0x137f1 src/item_menu_icons.o
+ .debug_info    0x0000000001281888    0x15bb2 src/battle_anim_mon_movement.o
+ .debug_info    0x000000000129743a    0x14991 src/berry.o
+ .debug_info    0x00000000012abdcb    0x1322b src/contest_effect.o
+ .debug_info    0x00000000012beff6    0x18f6d src/script_pokemon_util.o
+ .debug_info    0x00000000012d7f63    0x16d63 src/field_poison.o
+ .debug_info    0x00000000012eecc6    0x1187c src/pokemon_size_record.o
+ .debug_info    0x0000000001300542    0x11502 src/field_special_scene.o
+ .debug_info    0x0000000001311a44    0x12f65 src/contest_link.o
+ .debug_info    0x00000000013249a9    0x1abce src/battle_anim_effects_2.o
+ .debug_info    0x000000000133f577    0x176d9 src/battle_anim_water.o
+ .debug_info    0x0000000001356c50    0x16394 src/battle_anim_fire.o
+ .debug_info    0x000000000136cfe4    0x166d5 src/battle_anim_electric.o
+ .debug_info    0x00000000013836b9    0x17c6c src/battle_anim_ice.o
+ .debug_info    0x000000000139b325    0x161b4 src/battle_anim_fight.o
+ .debug_info    0x00000000013b14d9    0x159d0 src/battle_anim_poison.o
+ .debug_info    0x00000000013c6ea9    0x16562 src/battle_anim_flying.o
+ .debug_info    0x00000000013dd40b    0x167b4 src/battle_anim_psychic.o
+ .debug_info    0x00000000013f3bbf    0x15694 src/battle_anim_bug.o
+ .debug_info    0x0000000001409253    0x1614c src/battle_anim_rock.o
+ .debug_info    0x000000000141f39f    0x16715 src/battle_anim_ghost.o
+ .debug_info    0x0000000001435ab4    0x17c7a src/battle_anim_dark.o
+ .debug_info    0x000000000144d72e    0x15b97 src/battle_anim_ground.o
+ .debug_info    0x00000000014632c5    0x16507 src/battle_anim_normal.o
+ .debug_info    0x00000000014797cc    0x1d2d0 src/battle_anim_new.o
+ .debug_info    0x0000000001496a9c    0x1252d src/bike.o
+ .debug_info    0x00000000014a8fc9    0x125c7 src/dewford_trend.o
+ .debug_info    0x00000000014bb590    0x10631 src/heal_location.o
+ .debug_info    0x00000000014cbbc1    0x11d7c src/image_processing_effects.o
+ .debug_info    0x00000000014dd93d    0x1a07f src/battle_ai_util.o
+ .debug_info    0x00000000014f79bc    0x11d77 src/trader.o
+ .debug_info    0x0000000001509733    0x12824 src/wallclock.o
+ .debug_info    0x000000000151bf57    0x11137 src/fldeff_rocksmash.o
+ .debug_info    0x000000000152d08e    0x10b1f src/fldeff_dig.o
+ .debug_info    0x000000000153dbad    0x11571 src/fldeff_flash.o
+ .debug_info    0x000000000154f11e    0x10ad0 src/post_battle_event_funcs.o
+ .debug_info    0x000000000155fbee    0x11645 src/time_events.o
+ .debug_info    0x0000000001571233    0x10c33 src/birch_pc.o
+ .debug_info    0x0000000001581e66    0x10cd0 src/hof_pc.o
+ .debug_info    0x0000000001592b36    0x11cac src/landmark.o
+ .debug_info    0x00000000015a47e2    0x10c10 src/fldeff_strength.o
+ .debug_info    0x00000000015b53f2    0x1aaeb src/battle_controller_link_partner.o
+ .debug_info    0x00000000015cfedd    0x10735 src/math_util.o
+ .debug_info    0x00000000015e0612    0x114ae src/palette_util.o
+ .debug_info    0x00000000015f1ac0    0x137d3 src/field_effect_helpers.o
+ .debug_info    0x0000000001605293    0x186a7 src/contest_ai.o
+ .debug_info    0x000000000161d93a    0x18251 src/battle_anim_sound_tasks.o
+ .debug_info    0x0000000001635b8b    0x1a483 src/battle_controller_safari.o
+ .debug_info    0x000000000165000e    0x11b6e src/fldeff_sweetscent.o
+ .debug_info    0x0000000001661b7c    0x1bf18 src/battle_anim_effects_3.o
+ .debug_info    0x000000000167da94    0x1168b src/fldeff_softboiled.o
+ .debug_info    0x000000000168f11f    0x1af28 src/battle_controller_wally.o
+ .debug_info    0x00000000016aa047    0x11d7f src/reload_save.o
+ .debug_info    0x00000000016bbdc6    0x1a255 src/battle_anim_throw.o
+ .debug_info    0x00000000016d601b    0x11c86 src/clear_save_data_screen.o
+ .debug_info    0x00000000016e7ca1    0x1154a src/evolution_graphics.o
+ .debug_info    0x00000000016f91eb    0x11e1c src/bard_music.o
+ .debug_info    0x000000000170b007    0x10ac0 src/fldeff_teleport.o
+ .debug_info    0x000000000171bac7    0x16036 src/battle_tv.o
+ .debug_info    0x0000000001731afd    0x1ade3 src/battle_controller_recorded_opponent.o
+ .debug_info    0x000000000174c8e0    0x1a603 src/battle_controller_recorded_player.o
+ .debug_info    0x0000000001766ee3    0x113ae src/battle_palace.o
+ .debug_info    0x0000000001778291    0x1c81f src/apprentice.o
+ .debug_info    0x0000000001794ab0    0x1b121 src/frontier_util.o
+ .debug_info    0x00000000017afbd1    0x17f8d src/battle_arena.o
+ .debug_info    0x00000000017c7b5e    0x1b5c4 src/battle_pyramid.o
+ .debug_info    0x00000000017e3122    0x10749 src/save_location.o
+ .debug_info    0x00000000017f386b    0x11282 src/braille.o
+ .debug_info    0x0000000001804aed    0x10926 src/berry_fix_graphics.o
+ .debug_info    0x0000000001815413    0x1b2d2 src/battle_controller_player_partner.o
+ .debug_info    0x00000000018306e5    0x14891 src/pokenav_main_menu.o
+ .debug_info    0x0000000001844f76    0x12805 src/pokenav_menu_handler.o
+ .debug_info    0x000000000185777b    0x152c2 src/pokenav_menu_handler_gfx.o
+ .debug_info    0x000000000186ca3d    0x19e4e src/pokenav_match_call_list.o
+ .debug_info    0x000000000188688b    0x15ad8 src/pokenav_match_call_gfx.o
+ .debug_info    0x000000000189c363    0x1486f src/pokenav_region_map.o
+ .debug_info    0x00000000018b0bd2    0x148de src/pokenav_conditions.o
+ .debug_info    0x00000000018c54b0    0x14219 src/pokenav_conditions_search_results.o
+ .debug_info    0x00000000018d96c9    0x141f2 src/pokenav_ribbons_list.o
+ .debug_info    0x00000000018ed8bb    0x1add7 src/pokenav_match_call_data.o
+ .debug_info    0x0000000001908692    0x120e8 src/ereader_screen.o
+ .debug_info    0x000000000191a77a    0x11822 src/walda_phrase.o
+ .debug_info    0x000000000192bf9c    0x12d73 src/contest_link_util.o
+ .debug_info    0x000000000193ed0f    0x10c86 src/gym_leader_rematch.o
+ .debug_info    0x000000000194f995    0x12051 src/battle_transition_frontier.o
+ .debug_info    0x00000000019619e6    0x11eb2 src/international_string_util.o
+ .debug_info    0x0000000001973898    0x1b4db src/pokemon_debug.o
+ .debug_info    0x000000000198ed73    0x11dd0 src/librfu_stwi.o
+ .debug_info    0x00000000019a0b43    0x13c53 src/librfu_rfu.o
+ .debug_info    0x00000000019b4796    0x114f2 src/librfu_sio32id.o
+ .debug_info    0x00000000019c5c88     0x1342 src/libisagbprn.o
+ .debug_info    0x00000000019c6fca    0x1053a gflib/io_reg.o
+ .debug_info    0x00000000019d7504    0x11b7e src/mystery_gift_scripts.o
+ .debug_info    0x00000000019e9082    0x75b2a src/data.o
+ .debug_info    0x0000000001a5ebac    0x2811a src/strings.o
+ .debug_info    0x0000000001a86cc6    0x11231 src/text_input_strings.o
+ .debug_info    0x0000000001a97ef7    0x108c4 src/fonts.o
+ .debug_info    0x0000000001aa87bb    0x10745 src/mystery_event_msg.o
+ .debug_info    0x0000000001ab8f00     0x2001 src/m4a_tables.o
+ .debug_info    0x0000000001abaf01      0xdbb src/agb_flash_le.o
+ .debug_info    0x0000000001abbcbc    0x981bf src/graphics.o
 
 .debug_abbrev   0x0000000000000000    0x32f97
  *(.debug_abbrev)
@@ -50207,426 +50207,426 @@ LOAD sound/songs/se_m_sweet_scent.o
 LOAD sound/songs/se_m_earthquake.o
 LOAD sound/songs/se_m_bubble_beam2.o
 LOAD sound/songs/se_m_heal_bell.o
-LOAD sound/songs/midi/se_m_horn_attack.o
-LOAD sound/songs/midi/mus_register_match_call.o
+LOAD sound/songs/midi/mus_encounter_magma.o
+LOAD sound/songs/midi/mus_contest_results.o
+LOAD sound/songs/midi/se_u.o
+LOAD sound/songs/midi/se_pc_off.o
+LOAD sound/songs/midi/mus_lilycove.o
+LOAD sound/songs/midi/se_m_double_slap.o
+LOAD sound/songs/midi/ph_mouth_blend.o
+LOAD sound/songs/midi/ph_kit_solo.o
+LOAD sound/songs/midi/se_super_effective.o
+LOAD sound/songs/midi/mus_vs_regi.o
+LOAD sound/songs/midi/mus_rg_cycling.o
+LOAD sound/songs/midi/se_note_b.o
+LOAD sound/songs/midi/se_rg_poke_jump_success.o
+LOAD sound/songs/midi/se_mud_ball.o
+LOAD sound/songs/midi/se_itemfinder.o
+LOAD sound/songs/midi/se_rg_poke_jump_failure.o
+LOAD sound/songs/midi/ph_dress_solo.o
+LOAD sound/songs/midi/se_balloon_red.o
+LOAD sound/songs/midi/mus_vs_aqua_magma.o
+LOAD sound/songs/midi/mus_rg_vs_wild.o
+LOAD sound/songs/midi/mus_rg_new_game_intro.o
+LOAD sound/songs/midi/mus_rg_surf.o
+LOAD sound/songs/midi/mus_rg_teachy_tv_show.o
+LOAD sound/songs/midi/se_m_jump_kick.o
+LOAD sound/songs/midi/mus_rustboro.o
+LOAD sound/songs/midi/mus_rg_encounter_boy.o
+LOAD sound/songs/midi/se_m_vicegrip.o
+LOAD sound/songs/midi/mus_weather_groudon.o
+LOAD sound/songs/midi/mus_encounter_hiker.o
+LOAD sound/songs/midi/mus_rg_lavender.o
+LOAD sound/songs/midi/ph_nurse_blend.o
 LOAD sound/songs/midi/mus_link_contest_p4.o
-LOAD sound/songs/midi/mus_rg_teachy_tv_menu.o
-LOAD sound/songs/midi/mus_littleroot_test.o
-LOAD sound/songs/midi/mus_birch_lab.o
-LOAD sound/songs/midi/mus_poke_center.o
 LOAD sound/songs/midi/se_thunder.o
+LOAD sound/songs/midi/se_truck_stop.o
 LOAD sound/songs/midi/ph_kit_held.o
-LOAD sound/songs/midi/se_bang.o
 LOAD sound/songs/midi/se_contest_condition_lose.o
-LOAD sound/songs/midi/mus_rg_victory_wild.o
-LOAD sound/songs/midi/mus_cable_car.o
 LOAD sound/songs/midi/mus_rg_slow_pallet.o
-LOAD sound/songs/midi/mus_victory_trainer.o
 LOAD sound/songs/midi/mus_title.o
-LOAD sound/songs/midi/se_m_take_down.o
 LOAD sound/songs/midi/mus_aqua_magma_hideout.o
-LOAD sound/songs/midi/se_rg_ss_anne_horn.o
-LOAD sound/songs/midi/mus_rg_gym.o
-LOAD sound/songs/midi/mus_rg_route1.o
+LOAD sound/songs/midi/ph_fleece_blend.o
 LOAD sound/songs/midi/se_bridge_walk.o
-LOAD sound/songs/midi/mus_rg_vermillion.o
 LOAD sound/songs/midi/ph_dress_held.o
-LOAD sound/songs/midi/se_warp_in.o
 LOAD sound/songs/midi/mus_game_corner.o
-LOAD sound/songs/midi/mus_rg_fuchsia.o
+LOAD sound/songs/midi/se_switch.o
 LOAD sound/songs/midi/mus_contest_lobby.o
-LOAD sound/songs/midi/se_pokenav_on.o
-LOAD sound/songs/midi/se_contest_icon_clear.o
+LOAD sound/songs/midi/ph_thought_solo.o
 LOAD sound/songs/midi/mus_evolution.o
-LOAD sound/songs/midi/mus_link_contest_p1.o
-LOAD sound/songs/midi/se_unlock.o
-LOAD sound/songs/midi/se_m_fire_punch.o
+LOAD sound/songs/midi/mus_b_tower_rs.o
+LOAD sound/songs/midi/se_pokenav_call.o
 LOAD sound/songs/midi/ph_goose_blend.o
-LOAD sound/songs/midi/mus_petalburg_woods.o
-LOAD sound/songs/midi/mus_intro_battle.o
-LOAD sound/songs/midi/mus_rg_vs_gym_leader.o
-LOAD sound/songs/midi/mus_encounter_rich.o
+LOAD sound/songs/midi/mus_rg_poke_jump.o
 LOAD sound/songs/midi/ph_strut_solo.o
-LOAD sound/songs/midi/ph_face_blend.o
-LOAD sound/songs/midi/se_balloon_yellow.o
-LOAD sound/songs/midi/mus_rg_vs_trainer.o
-LOAD sound/songs/midi/mus_vs_champion.o
-LOAD sound/songs/midi/se_e.o
-LOAD sound/songs/midi/mus_route113.o
-LOAD sound/songs/midi/mus_rg_follow_me.o
-LOAD sound/songs/midi/mus_caught.o
-LOAD sound/songs/midi/mus_obtain_berry.o
-LOAD sound/songs/midi/se_rg_bag_pocket.o
+LOAD sound/songs/midi/se_rg_ball_click.o
+LOAD sound/songs/midi/se_puddle.o
+LOAD sound/songs/midi/ph_strut_blend.o
 LOAD sound/songs/midi/mus_rg_victory_road.o
-LOAD sound/songs/midi/mus_rg_union_room.o
 LOAD sound/songs/midi/se_a.o
 LOAD sound/songs/midi/mus_level_up.o
 LOAD sound/songs/midi/mus_obtain_item.o
-LOAD sound/songs/midi/se_m_gust2.o
-LOAD sound/songs/midi/mus_rg_sevii_cave.o
+LOAD sound/songs/midi/mus_rg_intro_fight.o
 LOAD sound/songs/midi/mus_encounter_swimmer.o
-LOAD sound/songs/midi/mus_contest_winner.o
 LOAD sound/songs/midi/mus_rg_photo.o
-LOAD sound/songs/midi/ph_price_solo.o
-LOAD sound/songs/midi/se_ball_open.o
-LOAD sound/songs/midi/mus_rg_oak_lab.o
+LOAD sound/songs/midi/mus_route113.o
 LOAD sound/songs/midi/mus_rg_encounter_girl.o
-LOAD sound/songs/midi/mus_contest.o
-LOAD sound/songs/midi/se_rg_ball_click.o
-LOAD sound/songs/midi/mus_encounter_aqua.o
-LOAD sound/songs/midi/se_arena_timeup1.o
-LOAD sound/songs/midi/se_breakable_door.o
-LOAD sound/songs/midi/mus_rg_route11.o
-LOAD sound/songs/midi/mus_route119.o
-LOAD sound/songs/midi/ph_mouth_held.o
-LOAD sound/songs/midi/mus_vs_elite_four.o
-LOAD sound/songs/midi/mus_abnormal_weather.o
-LOAD sound/songs/midi/mus_mt_pyre.o
-LOAD sound/songs/midi/mus_route101.o
-LOAD sound/songs/midi/se_shop.o
-LOAD sound/songs/midi/mus_evolution_intro.o
-LOAD sound/songs/midi/ph_lot_blend.o
-LOAD sound/songs/midi/se_puddle.o
-LOAD sound/songs/midi/se_intro_blast.o
-LOAD sound/songs/midi/mus_vs_aqua_magma_leader.o
-LOAD sound/songs/midi/se_downpour_stop.o
-LOAD sound/songs/midi/mus_b_tower.o
-LOAD sound/songs/midi/se_vend.o
-LOAD sound/songs/midi/ph_fleece_held.o
-LOAD sound/songs/midi/mus_rg_rival_exit.o
-LOAD sound/songs/midi/mus_lilycove_museum.o
-LOAD sound/songs/midi/mus_link_contest_p3.o
-LOAD sound/songs/midi/mus_rg_encounter_gym_leader.o
-LOAD sound/songs/midi/se_ball_trade.o
-LOAD sound/songs/midi/mus_route110.o
-LOAD sound/songs/midi/mus_mt_chimney.o
-LOAD sound/songs/midi/ph_fleece_solo.o
-LOAD sound/songs/midi/mus_rg_poke_mansion.o
-LOAD sound/songs/midi/mus_rg_lavender.o
-LOAD sound/songs/midi/se_save.o
-LOAD sound/songs/midi/se_orb.o
-LOAD sound/songs/midi/ph_mouth_blend.o
-LOAD sound/songs/midi/ph_fleece_blend.o
-LOAD sound/songs/midi/mus_encounter_male.o
-LOAD sound/songs/midi/ph_trap_held.o
-LOAD sound/songs/midi/ph_cloth_blend.o
-LOAD sound/songs/midi/se_pike_curtain_open.o
-LOAD sound/songs/midi/mus_rg_victory_trainer.o
-LOAD sound/songs/midi/se_note_d.o
-LOAD sound/songs/midi/mus_rg_encounter_rocket.o
-LOAD sound/songs/midi/se_o.o
-LOAD sound/songs/midi/se_ball_bounce_4.o
-LOAD sound/songs/midi/se_repel.o
-LOAD sound/songs/midi/mus_rg_game_corner.o
-LOAD sound/songs/midi/se_rg_card_flipping.o
-LOAD sound/songs/midi/mus_dummy.o
-LOAD sound/songs/midi/se_fall.o
-LOAD sound/songs/midi/se_m_double_slap.o
-LOAD sound/songs/midi/mus_help.o
-LOAD sound/songs/midi/se_truck_stop.o
-LOAD sound/songs/midi/se_m_comet_punch.o
-LOAD sound/songs/midi/se_mugshot.o
-LOAD sound/songs/midi/mus_rg_berry_pick.o
-LOAD sound/songs/midi/mus_credits.o
-LOAD sound/songs/midi/se_ledge.o
-LOAD sound/songs/midi/se_rg_card_open.o
-LOAD sound/songs/midi/ph_thought_blend.o
-LOAD sound/songs/midi/se_thunderstorm_stop.o
-LOAD sound/songs/midi/ph_thought_held.o
-LOAD sound/songs/midi/ph_foot_solo.o
-LOAD sound/songs/midi/se_field_poison.o
-LOAD sound/songs/midi/se_pc_off.o
-LOAD sound/songs/midi/mus_rg_rocket_hideout.o
-LOAD sound/songs/midi/mus_rg_route24.o
-LOAD sound/songs/midi/mus_petalburg.o
-LOAD sound/songs/midi/mus_rg_caught.o
-LOAD sound/songs/midi/se_failure.o
-LOAD sound/songs/midi/mus_rg_trainer_tower.o
-LOAD sound/songs/midi/mus_abandoned_ship.o
-LOAD sound/songs/midi/se_truck_door.o
-LOAD sound/songs/midi/mus_contest_results.o
-LOAD sound/songs/midi/ph_trap_blend.o
-LOAD sound/songs/midi/mus_trick_house.o
-LOAD sound/songs/midi/mus_b_dome_lobby.o
-LOAD sound/songs/midi/mus_b_frontier.o
-LOAD sound/songs/midi/ph_cure_blend.o
-LOAD sound/songs/midi/mus_encounter_twins.o
-LOAD sound/songs/midi/se_rg_card_flip.o
-LOAD sound/songs/midi/se_super_effective.o
-LOAD sound/songs/midi/se_exp_max.o
-LOAD sound/songs/midi/mus_school.o
-LOAD sound/songs/midi/mus_lilycove.o
-LOAD sound/songs/midi/se_arena_timeup2.o
-LOAD sound/songs/midi/mus_vs_frontier_brain.o
-LOAD sound/songs/midi/mus_sealed_chamber.o
-LOAD sound/songs/midi/se_sudowoodo_shake.o
-LOAD sound/songs/midi/mus_rg_sevii_route.o
-LOAD sound/songs/midi/mus_weather_groudon.o
-LOAD sound/songs/midi/se_faint.o
-LOAD sound/songs/midi/mus_vs_regi.o
-LOAD sound/songs/midi/mus_c_comm_center.o
-LOAD sound/songs/midi/se_note_b.o
-LOAD sound/songs/midi/mus_rg_hall_of_fame.o
-LOAD sound/songs/midi/mus_rg_title.o
-LOAD sound/songs/midi/se_roulette_ball2.o
-LOAD sound/songs/midi/ph_choice_blend.o
-LOAD sound/songs/midi/se_rg_help_close.o
-LOAD sound/songs/midi/mus_oceanic_museum.o
-LOAD sound/songs/midi/se_rg_poke_jump_failure.o
-LOAD sound/songs/midi/ph_dress_solo.o
-LOAD sound/songs/midi/ph_cure_solo.o
-LOAD sound/songs/midi/mus_vs_aqua_magma.o
-LOAD sound/songs/midi/ph_nurse_held.o
-LOAD sound/songs/midi/mus_rg_vs_wild.o
-LOAD sound/songs/midi/se_ball_throw.o
-LOAD sound/songs/midi/mus_rg_new_game_intro.o
-LOAD sound/songs/midi/mus_rg_surf.o
-LOAD sound/songs/midi/mus_oldale.o
-LOAD sound/songs/midi/mus_rg_teachy_tv_show.o
-LOAD sound/songs/midi/mus_rg_encounter_deoxys.o
-LOAD sound/songs/midi/se_u.o
-LOAD sound/songs/midi/se_rg_shop.o
-LOAD sound/songs/midi/se_low_health.o
-LOAD sound/songs/midi/se_applause.o
-LOAD sound/songs/midi/mus_rustboro.o
-LOAD sound/songs/midi/mus_rg_poke_tower.o
-LOAD sound/songs/midi/ph_goat_solo.o
-LOAD sound/songs/midi/mus_rg_cycling.o
-LOAD sound/songs/midi/mus_rg_cinnabar.o
-LOAD sound/songs/midi/se_rg_poke_jump_success.o
-LOAD sound/songs/midi/mus_rg_new_game_exit.o
-LOAD sound/songs/midi/mus_encounter_hiker.o
-LOAD sound/songs/midi/mus_end.o
-LOAD sound/songs/midi/ph_nurse_blend.o
-LOAD sound/songs/midi/se_m_swords_dance.o
-LOAD sound/songs/midi/se_truck_move.o
-LOAD sound/songs/midi/se_ball_bounce_3.o
-LOAD sound/songs/midi/mus_vs_rival.o
-LOAD sound/songs/midi/mus_rg_credits.o
-LOAD sound/songs/midi/mus_roulette.o
-LOAD sound/songs/midi/se_not_effective.o
-LOAD sound/songs/midi/mus_cave_of_origin.o
-LOAD sound/songs/midi/mus_hall_of_fame.o
-LOAD sound/songs/midi/mus_rg_poke_jump.o
-LOAD sound/songs/midi/se_contest_icon_change.o
-LOAD sound/songs/midi/mus_encounter_magma.o
-LOAD sound/songs/midi/mus_rg_jigglypuff.o
-LOAD sound/songs/midi/mus_obtain_tmhm.o
-LOAD sound/songs/midi/se_use_item.o
-LOAD sound/songs/midi/mus_victory_aqua_magma.o
-LOAD sound/songs/midi/se_ball_tray_ball.o
-LOAD sound/songs/midi/mus_vs_wild.o
-LOAD sound/songs/midi/se_contest_mons_turn.o
-LOAD sound/songs/midi/mus_encounter_suspicious.o
-LOAD sound/songs/midi/mus_rg_vs_legend.o
-LOAD sound/songs/midi/mus_poke_mart.o
-LOAD sound/songs/midi/mus_move_deleted.o
-LOAD sound/songs/midi/se_m_jump_kick.o
-LOAD sound/songs/midi/mus_cycling.o
-LOAD sound/songs/midi/ph_face_solo.o
-LOAD sound/songs/midi/se_note_e.o
-LOAD sound/songs/midi/ph_strut_blend.o
-LOAD sound/songs/midi/mus_slateport.o
-LOAD sound/songs/midi/mus_sootopolis.o
-LOAD sound/songs/midi/se_elevator.o
-LOAD sound/songs/midi/se_note_a.o
-LOAD sound/songs/midi/se_m_cut.o
-LOAD sound/songs/midi/se_exp.o
-LOAD sound/songs/midi/se_pokenav_call.o
-LOAD sound/songs/midi/mus_rg_obtain_key_item.o
-LOAD sound/songs/midi/ph_cloth_solo.o
-LOAD sound/songs/midi/se_mud_ball.o
-LOAD sound/songs/midi/se_berry_blender.o
-LOAD sound/songs/midi/se_ball_tray_exit.o
-LOAD sound/songs/midi/se_m_razor_wind.o
-LOAD sound/songs/midi/mus_safari_zone.o
-LOAD sound/songs/midi/mus_b_pyramid_top.o
 LOAD sound/songs/midi/mus_vs_mew.o
 LOAD sound/songs/midi/mus_encounter_elite_four.o
-LOAD sound/songs/midi/se_switch.o
+LOAD sound/songs/midi/mus_rg_vs_champion.o
 LOAD sound/songs/midi/mus_dewford.o
 LOAD sound/songs/midi/mus_rg_pallet.o
 LOAD sound/songs/midi/mus_rg_ss_anne.o
-LOAD sound/songs/midi/se_contest_curtain_fall.o
+LOAD sound/songs/midi/mus_encounter_female.o
 LOAD sound/songs/midi/mus_littleroot.o
-LOAD sound/songs/midi/se_rg_door.o
-LOAD sound/songs/midi/mus_rg_sevii_45.o
-LOAD sound/songs/midi/mus_mt_pyre_exterior.o
-LOAD sound/songs/midi/mus_awaken_legend.o
-LOAD sound/songs/midi/mus_gym.o
-LOAD sound/songs/midi/mus_fallarbor.o
-LOAD sound/songs/midi/se_thunderstorm.o
-LOAD sound/songs/midi/mus_rg_sevii_67.o
+LOAD sound/songs/midi/mus_contest_winner.o
+LOAD sound/songs/midi/mus_route122.o
+LOAD sound/songs/midi/se_note_a.o
 LOAD sound/songs/midi/mus_rg_vs_mewtwo.o
-LOAD sound/songs/midi/se_lavaridge_fall_warp.o
-LOAD sound/songs/midi/se_card.o
-LOAD sound/songs/midi/se_ship.o
-LOAD sound/songs/midi/se_egg_hatch.o
-LOAD sound/songs/midi/mus_verdanturf.o
-LOAD sound/songs/midi/se_rain_stop.o
+LOAD sound/songs/midi/se_contest_curtain_fall.o
+LOAD sound/songs/midi/ph_price_solo.o
 LOAD sound/songs/midi/mus_intro.o
-LOAD sound/songs/midi/se_m_bind.o
-LOAD sound/songs/midi/se_fu_zaku.o
-LOAD sound/songs/midi/mus_b_tower_rs.o
 LOAD sound/songs/midi/mus_vs_gym_leader.o
-LOAD sound/songs/midi/mus_obtain_symbol.o
-LOAD sound/songs/midi/mus_rg_mt_moon.o
-LOAD sound/songs/midi/se_effective.o
-LOAD sound/songs/midi/se_rg_deoxys_move.o
-LOAD sound/songs/midi/ph_face_held.o
-LOAD sound/songs/midi/se_rain.o
-LOAD sound/songs/midi/se_escalator.o
-LOAD sound/songs/midi/se_m_wing_attack.o
-LOAD sound/songs/midi/mus_vs_trainer.o
-LOAD sound/songs/midi/se_ball_bounce_2.o
-LOAD sound/songs/midi/se_truck_unload.o
-LOAD sound/songs/midi/mus_rg_sevii_dungeon.o
-LOAD sound/songs/midi/mus_victory_road.o
-LOAD sound/songs/midi/se_thunder2.o
-LOAD sound/songs/midi/se_contest_heart.o
-LOAD sound/songs/midi/ph_cloth_held.o
-LOAD sound/songs/midi/se_i.o
-LOAD sound/songs/midi/mus_rg_victory_gym_leader.o
-LOAD sound/songs/midi/mus_rg_dex_rating.o
+LOAD sound/songs/midi/se_warp_in.o
 LOAD sound/songs/midi/mus_rg_encounter_rival.o
+LOAD sound/songs/midi/mus_rg_victory_trainer.o
+LOAD sound/songs/midi/se_bang.o
+LOAD sound/songs/midi/se_note_e.o
+LOAD sound/songs/midi/se_bike_hop.o
+LOAD sound/songs/midi/ph_cloth_held.o
+LOAD sound/songs/midi/mus_victory_road.o
+LOAD sound/songs/midi/mus_rg_follow_me.o
 LOAD sound/songs/midi/mus_rg_oak.o
 LOAD sound/songs/midi/mus_encounter_champion.o
 LOAD sound/songs/midi/se_ball.o
-LOAD sound/songs/midi/se_m_gust.o
-LOAD sound/songs/midi/mus_rg_viridian_forest.o
-LOAD sound/songs/midi/se_rg_help_open.o
-LOAD sound/songs/midi/mus_encounter_intense.o
-LOAD sound/songs/midi/mus_c_vs_legend_beast.o
-LOAD sound/songs/midi/se_bike_hop.o
-LOAD sound/songs/midi/mus_gsc_route38.o
-LOAD sound/songs/midi/ph_choice_solo.o
-LOAD sound/songs/midi/se_m_mega_kick.o
-LOAD sound/songs/midi/se_m_mega_kick2.o
-LOAD sound/songs/midi/mus_fortree.o
+LOAD sound/songs/midi/se_shiny.o
+LOAD sound/songs/midi/mus_rg_obtain_key_item.o
+LOAD sound/songs/midi/mus_mt_pyre.o
+LOAD sound/songs/midi/se_rg_bag_cursor.o
 LOAD sound/songs/midi/mus_rg_poke_flute.o
-LOAD sound/songs/midi/ph_kit_solo.o
-LOAD sound/songs/midi/se_m_sand_attack.o
 LOAD sound/songs/midi/mus_encounter_girl.o
 LOAD sound/songs/midi/mus_rg_heal.o
 LOAD sound/songs/midi/ph_foot_blend.o
-LOAD sound/songs/midi/mus_encounter_female.o
 LOAD sound/songs/midi/se_ball_bounce_1.o
-LOAD sound/songs/midi/ph_goat_held.o
-LOAD sound/songs/midi/se_pokenav_hang_up.o
+LOAD sound/songs/midi/se_rg_door.o
 LOAD sound/songs/midi/ph_price_held.o
-LOAD sound/songs/midi/mus_victory_league.o
-LOAD sound/songs/midi/mus_rg_vs_deoxys.o
-LOAD sound/songs/midi/mus_b_pike.o
-LOAD sound/songs/midi/se_pc_login.o
+LOAD sound/songs/midi/mus_poke_mart.o
+LOAD sound/songs/midi/mus_rg_berry_pick.o
+LOAD sound/songs/midi/se_repel.o
 LOAD sound/songs/midi/mus_hall_of_fame_room.o
-LOAD sound/songs/midi/mus_rg_route3.o
-LOAD sound/songs/midi/ph_mouth_solo.o
+LOAD sound/songs/midi/ph_trap_solo.o
 LOAD sound/songs/midi/mus_victory_wild.o
-LOAD sound/songs/midi/mus_b_pyramid.o
 LOAD sound/songs/midi/mus_rg_new_game_instruct.o
 LOAD sound/songs/midi/se_m_razor_wind2.o
-LOAD sound/songs/midi/mus_evolved.o
-LOAD sound/songs/midi/mus_route120.o
+LOAD sound/songs/midi/se_ice_crack.o
 LOAD sound/songs/midi/se_note_c.o
-LOAD sound/songs/midi/mus_rg_encounter_boy.o
-LOAD sound/songs/midi/se_pin.o
-LOAD sound/songs/midi/se_shiny.o
-LOAD sound/songs/midi/mus_route104.o
-LOAD sound/songs/midi/se_pike_curtain_close.o
-LOAD sound/songs/midi/ph_price_blend.o
-LOAD sound/songs/midi/ph_kit_blend.o
-LOAD sound/songs/midi/se_m_leer.o
-LOAD sound/songs/midi/ph_thought_solo.o
-LOAD sound/songs/midi/mus_rg_vs_champion.o
+LOAD sound/songs/midi/mus_rg_vs_deoxys.o
 LOAD sound/songs/midi/se_glass_flute.o
-LOAD sound/songs/midi/mus_obtain_b_points.o
 LOAD sound/songs/midi/mus_encounter_cool.o
-LOAD sound/songs/midi/mus_rg_silph.o
-LOAD sound/songs/midi/mus_encounter_interviewer.o
-LOAD sound/songs/midi/ph_choice_held.o
-LOAD sound/songs/midi/mus_rg_sevii_123.o
+LOAD sound/songs/midi/ph_fleece_solo.o
 LOAD sound/songs/midi/mus_vs_kyogre_groudon.o
-LOAD sound/songs/midi/ph_dress_blend.o
-LOAD sound/songs/midi/mus_rg_mystery_gift.o
-LOAD sound/songs/midi/se_rg_bag_cursor.o
-LOAD sound/songs/midi/mus_encounter_brendan.o
-LOAD sound/songs/midi/se_m_pay_day.o
-LOAD sound/songs/midi/mus_b_dome.o
-LOAD sound/songs/midi/ph_trap_solo.o
-LOAD sound/songs/midi/mus_rg_caught_intro.o
+LOAD sound/songs/midi/mus_encounter_suspicious.o
 LOAD sound/songs/midi/mus_slots_win.o
-LOAD sound/songs/midi/ph_goose_solo.o
 LOAD sound/songs/midi/se_note_f.o
-LOAD sound/songs/midi/se_m_vicegrip.o
-LOAD sound/songs/midi/se_ice_stairs.o
 LOAD sound/songs/midi/ph_goat_blend.o
-LOAD sound/songs/midi/mus_obtain_badge.o
 LOAD sound/songs/midi/ph_strut_held.o
 LOAD sound/songs/midi/mus_encounter_may.o
 LOAD sound/songs/midi/se_contest_curtain_rise.o
-LOAD sound/songs/midi/mus_b_factory.o
+LOAD sound/songs/midi/ph_nurse_held.o
 LOAD sound/songs/midi/mus_b_palace.o
-LOAD sound/songs/midi/se_balloon_red.o
-LOAD sound/songs/midi/se_itemfinder.o
 LOAD sound/songs/midi/se_ding_dong.o
-LOAD sound/songs/midi/se_pc_on.o
-LOAD sound/songs/midi/se_bike_bell.o
-LOAD sound/songs/midi/se_roulette_ball.o
-LOAD sound/songs/midi/se_balloon_blue.o
-LOAD sound/songs/midi/se_rotating_gate.o
-LOAD sound/songs/midi/se_rg_help_error.o
+LOAD sound/songs/midi/se_pokenav_off.o
 LOAD sound/songs/midi/se_exit.o
-LOAD sound/songs/midi/se_m_fly.o
-LOAD sound/songs/midi/mus_rg_intro_fight.o
-LOAD sound/songs/midi/se_downpour.o
+LOAD sound/songs/midi/mus_route120.o
 LOAD sound/songs/midi/se_boo.o
-LOAD sound/songs/midi/se_taillow_wing_flap.o
-LOAD sound/songs/midi/se_click.o
-LOAD sound/songs/midi/mus_underwater.o
-LOAD sound/songs/midi/se_sliding_door.o
-LOAD sound/songs/midi/ph_cure_held.o
+LOAD sound/songs/midi/mus_c_vs_legend_beast.o
 LOAD sound/songs/midi/mus_victory_gym_leader.o
-LOAD sound/songs/midi/se_contest_place.o
-LOAD sound/songs/midi/mus_follow_me.o
+LOAD sound/songs/midi/ph_fleece_held.o
 LOAD sound/songs/midi/mus_rg_pewter.o
-LOAD sound/songs/midi/mus_sailing.o
-LOAD sound/songs/midi/mus_route122.o
+LOAD sound/songs/midi/se_rain_stop.o
 LOAD sound/songs/midi/mus_b_arena.o
-LOAD sound/songs/midi/se_m_tail_whip.o
-LOAD sound/songs/midi/mus_rg_net_center.o
 LOAD sound/songs/midi/mus_too_bad.o
 LOAD sound/songs/midi/se_flee.o
+LOAD sound/songs/midi/ph_lot_blend.o
 LOAD sound/songs/midi/mus_ever_grande.o
+LOAD sound/songs/midi/se_vend.o
 LOAD sound/songs/midi/se_select.o
-LOAD sound/songs/midi/ph_goose_held.o
-LOAD sound/songs/midi/mus_link_contest_p2.o
-LOAD sound/songs/midi/se_ice_break.o
-LOAD sound/songs/midi/se_ice_crack.o
-LOAD sound/songs/midi/mus_rg_game_freak.o
-LOAD sound/songs/midi/mus_heal.o
-LOAD sound/songs/midi/se_ball_tray_enter.o
-LOAD sound/songs/midi/se_m_scratch.o
+LOAD sound/songs/midi/mus_rg_route3.o
+LOAD sound/songs/midi/se_ball_bounce_2.o
 LOAD sound/songs/midi/se_n.o
 LOAD sound/songs/midi/se_note_g.o
-LOAD sound/songs/midi/ph_foot_held.o
-LOAD sound/songs/midi/se_door.o
-LOAD sound/songs/midi/ph_lot_solo.o
-LOAD sound/songs/midi/se_pokenav_off.o
-LOAD sound/songs/midi/mus_vs_rayquaza.o
-LOAD sound/songs/midi/mus_slots_jackpot.o
+LOAD sound/songs/midi/mus_end.o
 LOAD sound/songs/midi/se_dex_search.o
 LOAD sound/songs/midi/mus_rayquaza_appears.o
-LOAD sound/songs/midi/mus_rg_celadon.o
-LOAD sound/songs/midi/mus_route111.o
+LOAD sound/songs/midi/se_m_fire_punch.o
+LOAD sound/songs/midi/mus_cave_of_origin.o
 LOAD sound/songs/midi/se_m_headbutt.o
 LOAD sound/songs/midi/se_warp_out.o
 LOAD sound/songs/midi/se_success.o
-LOAD sound/songs/midi/ph_nurse_solo.o
 LOAD sound/songs/midi/ph_lot_held.o
 LOAD sound/songs/midi/se_note_c_high.o
-LOAD sound/songs/midi/mus_gsc_pewter.o
-LOAD sound/songs/midi/mus_surf.o
+LOAD sound/songs/midi/mus_contest.o
+LOAD sound/songs/midi/se_breakable_door.o
+LOAD sound/songs/midi/se_rg_help_close.o
+LOAD sound/songs/midi/ph_mouth_held.o
+LOAD sound/songs/midi/mus_vs_champion.o
+LOAD sound/songs/midi/mus_route101.o
+LOAD sound/songs/midi/mus_littleroot_test.o
+LOAD sound/songs/midi/se_contest_place.o
+LOAD sound/songs/midi/se_contest_mons_turn.o
+LOAD sound/songs/midi/mus_rg_rival_exit.o
+LOAD sound/songs/midi/se_exp_max.o
+LOAD sound/songs/midi/mus_link_contest_p3.o
+LOAD sound/songs/midi/se_ball_trade.o
+LOAD sound/songs/midi/mus_route110.o
 LOAD sound/songs/midi/mus_rg_poke_center.o
+LOAD sound/songs/midi/mus_rg_poke_mansion.o
+LOAD sound/songs/midi/se_faint.o
+LOAD sound/songs/midi/mus_rg_union_room.o
+LOAD sound/songs/midi/se_m_gust2.o
+LOAD sound/songs/midi/mus_encounter_male.o
+LOAD sound/songs/midi/ph_cloth_blend.o
+LOAD sound/songs/midi/se_pc_login.o
+LOAD sound/songs/midi/se_click.o
+LOAD sound/songs/midi/se_exp.o
+LOAD sound/songs/midi/se_rg_bag_pocket.o
+LOAD sound/songs/midi/mus_fallarbor.o
+LOAD sound/songs/midi/se_ball_throw.o
+LOAD sound/songs/midi/mus_awaken_legend.o
+LOAD sound/songs/midi/se_rg_card_flipping.o
+LOAD sound/songs/midi/mus_rg_rocket_hideout.o
+LOAD sound/songs/midi/se_m_gust.o
+LOAD sound/songs/midi/mus_petalburg.o
+LOAD sound/songs/midi/mus_rg_caught.o
+LOAD sound/songs/midi/se_m_mega_kick.o
+LOAD sound/songs/midi/mus_rg_credits.o
+LOAD sound/songs/midi/se_effective.o
+LOAD sound/songs/midi/mus_hall_of_fame.o
+LOAD sound/songs/midi/mus_surf.o
+LOAD sound/songs/midi/se_sudowoodo_shake.o
+LOAD sound/songs/midi/mus_rg_oak_lab.o
+LOAD sound/songs/midi/mus_obtain_tmhm.o
+LOAD sound/songs/midi/mus_victory_aqua_magma.o
+LOAD sound/songs/midi/mus_rg_victory_wild.o
+LOAD sound/songs/midi/mus_encounter_interviewer.o
+LOAD sound/songs/midi/mus_rg_mystery_gift.o
+LOAD sound/songs/midi/se_applause.o
+LOAD sound/songs/midi/se_roulette_ball.o
+LOAD sound/songs/midi/se_m_leer.o
+LOAD sound/songs/midi/ph_face_solo.o
+LOAD sound/songs/midi/se_pokenav_hang_up.o
+LOAD sound/songs/midi/mus_slateport.o
+LOAD sound/songs/midi/mus_sootopolis.o
+LOAD sound/songs/midi/se_elevator.o
+LOAD sound/songs/midi/se_m_cut.o
+LOAD sound/songs/midi/ph_trap_blend.o
+LOAD sound/songs/midi/mus_sealed_chamber.o
+LOAD sound/songs/midi/se_m_razor_wind.o
+LOAD sound/songs/midi/mus_school.o
+LOAD sound/songs/midi/se_contest_heart.o
+LOAD sound/songs/midi/se_rg_card_flip.o
+LOAD sound/songs/midi/mus_encounter_twins.o
+LOAD sound/songs/midi/mus_mt_pyre_exterior.o
+LOAD sound/songs/midi/mus_gym.o
+LOAD sound/songs/midi/mus_rg_sevii_67.o
+LOAD sound/songs/midi/se_ball_bounce_3.o
+LOAD sound/songs/midi/se_thunderstorm.o
+LOAD sound/songs/midi/se_card.o
+LOAD sound/songs/midi/mus_verdanturf.o
+LOAD sound/songs/midi/se_m_bind.o
+LOAD sound/songs/midi/mus_obtain_symbol.o
+LOAD sound/songs/midi/mus_rg_mt_moon.o
+LOAD sound/songs/midi/se_rg_deoxys_move.o
+LOAD sound/songs/midi/ph_face_held.o
+LOAD sound/songs/midi/se_m_wing_attack.o
+LOAD sound/songs/midi/mus_vs_trainer.o
+LOAD sound/songs/midi/mus_lilycove_museum.o
+LOAD sound/songs/midi/mus_roulette.o
+LOAD sound/songs/midi/mus_rg_sevii_dungeon.o
+LOAD sound/songs/midi/mus_rg_victory_gym_leader.o
+LOAD sound/songs/midi/se_taillow_wing_flap.o
+LOAD sound/songs/midi/mus_rg_dex_rating.o
+LOAD sound/songs/midi/mus_rg_viridian_forest.o
+LOAD sound/songs/midi/mus_encounter_intense.o
+LOAD sound/songs/midi/mus_gsc_route38.o
+LOAD sound/songs/midi/ph_choice_solo.o
+LOAD sound/songs/midi/mus_fortree.o
+LOAD sound/songs/midi/ph_thought_held.o
+LOAD sound/songs/midi/se_downpour_stop.o
+LOAD sound/songs/midi/se_truck_move.o
+LOAD sound/songs/midi/mus_victory_league.o
+LOAD sound/songs/midi/se_truck_unload.o
+LOAD sound/songs/midi/se_failure.o
+LOAD sound/songs/midi/ph_mouth_solo.o
+LOAD sound/songs/midi/mus_b_pike.o
+LOAD sound/songs/midi/mus_b_pyramid.o
+LOAD sound/songs/midi/mus_evolved.o
+LOAD sound/songs/midi/se_use_item.o
+LOAD sound/songs/midi/ph_price_blend.o
+LOAD sound/songs/midi/ph_kit_blend.o
+LOAD sound/songs/midi/se_escalator.o
+LOAD sound/songs/midi/mus_rg_sevii_123.o
+LOAD sound/songs/midi/mus_obtain_b_points.o
+LOAD sound/songs/midi/se_m_fly.o
+LOAD sound/songs/midi/ph_cure_solo.o
+LOAD sound/songs/midi/se_m_sand_attack.o
+LOAD sound/songs/midi/ph_choice_held.o
+LOAD sound/songs/midi/ph_dress_blend.o
+LOAD sound/songs/midi/se_thunder2.o
+LOAD sound/songs/midi/mus_encounter_brendan.o
+LOAD sound/songs/midi/se_m_pay_day.o
+LOAD sound/songs/midi/mus_rg_route1.o
+LOAD sound/songs/midi/mus_b_dome.o
+LOAD sound/songs/midi/mus_rg_caught_intro.o
+LOAD sound/songs/midi/mus_rg_trainer_tower.o
+LOAD sound/songs/midi/mus_oldale.o
+LOAD sound/songs/midi/ph_goose_solo.o
+LOAD sound/songs/midi/mus_b_tower.o
+LOAD sound/songs/midi/se_ice_stairs.o
+LOAD sound/songs/midi/mus_obtain_badge.o
+LOAD sound/songs/midi/mus_b_factory.o
+LOAD sound/songs/midi/mus_rg_sevii_cave.o
+LOAD sound/songs/midi/se_pc_on.o
+LOAD sound/songs/midi/se_bike_bell.o
+LOAD sound/songs/midi/se_balloon_blue.o
+LOAD sound/songs/midi/ph_trap_held.o
+LOAD sound/songs/midi/mus_victory_trainer.o
+LOAD sound/songs/midi/se_pike_curtain_close.o
+LOAD sound/songs/midi/mus_underwater.o
+LOAD sound/songs/midi/ph_cure_held.o
+LOAD sound/songs/midi/se_o.o
+LOAD sound/songs/midi/mus_follow_me.o
+LOAD sound/songs/midi/mus_rg_vs_legend.o
+LOAD sound/songs/midi/se_pike_curtain_open.o
+LOAD sound/songs/midi/se_arena_timeup2.o
+LOAD sound/songs/midi/se_m_tail_whip.o
+LOAD sound/songs/midi/mus_rg_net_center.o
+LOAD sound/songs/midi/mus_rg_route11.o
+LOAD sound/songs/midi/mus_rg_encounter_gym_leader.o
+LOAD sound/songs/midi/se_ball_tray_enter.o
+LOAD sound/songs/midi/se_ice_break.o
+LOAD sound/songs/midi/mus_rg_game_freak.o
+LOAD sound/songs/midi/mus_heal.o
+LOAD sound/songs/midi/se_rain.o
+LOAD sound/songs/midi/se_rg_help_error.o
+LOAD sound/songs/midi/se_door.o
+LOAD sound/songs/midi/se_rg_card_open.o
+LOAD sound/songs/midi/mus_vs_rayquaza.o
+LOAD sound/songs/midi/mus_slots_jackpot.o
+LOAD sound/songs/midi/mus_rg_celadon.o
+LOAD sound/songs/midi/se_rg_ss_anne_horn.o
+LOAD sound/songs/midi/mus_encounter_aqua.o
+LOAD sound/songs/midi/se_rg_shop.o
+LOAD sound/songs/midi/se_m_swords_dance.o
+LOAD sound/songs/midi/se_m_scratch.o
+LOAD sound/songs/midi/ph_lot_solo.o
+LOAD sound/songs/midi/mus_abnormal_weather.o
+LOAD sound/songs/midi/mus_evolution_intro.o
+LOAD sound/songs/midi/mus_vs_aqua_magma_leader.o
+LOAD sound/songs/midi/se_pin.o
+LOAD sound/songs/midi/mus_rg_vermillion.o
+LOAD sound/songs/midi/se_truck_door.o
+LOAD sound/songs/midi/mus_rg_poke_tower.o
+LOAD sound/songs/midi/se_egg_hatch.o
+LOAD sound/songs/midi/ph_face_blend.o
+LOAD sound/songs/midi/se_i.o
+LOAD sound/songs/midi/se_orb.o
+LOAD sound/songs/midi/se_m_take_down.o
+LOAD sound/songs/midi/mus_rg_title.o
+LOAD sound/songs/midi/se_note_d.o
+LOAD sound/songs/midi/mus_rg_encounter_rocket.o
+LOAD sound/songs/midi/se_ball_bounce_4.o
+LOAD sound/songs/midi/mus_rg_game_corner.o
+LOAD sound/songs/midi/mus_dummy.o
+LOAD sound/songs/midi/se_fall.o
+LOAD sound/songs/midi/mus_help.o
+LOAD sound/songs/midi/se_m_comet_punch.o
+LOAD sound/songs/midi/se_mugshot.o
+LOAD sound/songs/midi/mus_b_frontier.o
+LOAD sound/songs/midi/mus_credits.o
+LOAD sound/songs/midi/ph_thought_blend.o
+LOAD sound/songs/midi/ph_foot_solo.o
+LOAD sound/songs/midi/se_m_mega_kick2.o
+LOAD sound/songs/midi/mus_rg_sevii_45.o
+LOAD sound/songs/midi/mus_rg_route24.o
+LOAD sound/songs/midi/mus_route119.o
+LOAD sound/songs/midi/mus_abandoned_ship.o
+LOAD sound/songs/midi/se_intro_blast.o
+LOAD sound/songs/midi/mus_trick_house.o
+LOAD sound/songs/midi/mus_b_dome_lobby.o
+LOAD sound/songs/midi/mus_vs_frontier_brain.o
+LOAD sound/songs/midi/mus_rg_sevii_route.o
+LOAD sound/songs/midi/mus_sailing.o
+LOAD sound/songs/midi/mus_c_comm_center.o
+LOAD sound/songs/midi/mus_rg_hall_of_fame.o
+LOAD sound/songs/midi/ph_choice_blend.o
+LOAD sound/songs/midi/mus_oceanic_museum.o
+LOAD sound/songs/midi/mus_safari_zone.o
+LOAD sound/songs/midi/ph_goose_held.o
+LOAD sound/songs/midi/ph_foot_held.o
+LOAD sound/songs/midi/se_rotating_gate.o
+LOAD sound/songs/midi/mus_poke_center.o
+LOAD sound/songs/midi/se_low_health.o
+LOAD sound/songs/midi/ph_goat_solo.o
+LOAD sound/songs/midi/mus_rg_cinnabar.o
+LOAD sound/songs/midi/se_field_poison.o
+LOAD sound/songs/midi/mus_rg_new_game_exit.o
+LOAD sound/songs/midi/mus_vs_rival.o
+LOAD sound/songs/midi/se_rg_help_open.o
+LOAD sound/songs/midi/se_e.o
+LOAD sound/songs/midi/mus_intro_battle.o
+LOAD sound/songs/midi/se_shop.o
+LOAD sound/songs/midi/mus_register_match_call.o
+LOAD sound/songs/midi/mus_rg_teachy_tv_menu.o
+LOAD sound/songs/midi/mus_birch_lab.o
+LOAD sound/songs/midi/mus_cable_car.o
+LOAD sound/songs/midi/ph_cure_blend.o
+LOAD sound/songs/midi/mus_rg_gym.o
+LOAD sound/songs/midi/se_arena_timeup1.o
+LOAD sound/songs/midi/se_balloon_yellow.o
+LOAD sound/songs/midi/se_save.o
+LOAD sound/songs/midi/ph_nurse_solo.o
+LOAD sound/songs/midi/se_ball_open.o
+LOAD sound/songs/midi/se_pokenav_on.o
+LOAD sound/songs/midi/mus_link_contest_p1.o
+LOAD sound/songs/midi/se_unlock.o
+LOAD sound/songs/midi/se_fu_zaku.o
+LOAD sound/songs/midi/mus_petalburg_woods.o
+LOAD sound/songs/midi/mus_rg_vs_gym_leader.o
+LOAD sound/songs/midi/mus_encounter_rich.o
+LOAD sound/songs/midi/ph_goat_held.o
+LOAD sound/songs/midi/mus_rg_vs_trainer.o
+LOAD sound/songs/midi/se_lavaridge_fall_warp.o
+LOAD sound/songs/midi/mus_rg_silph.o
+LOAD sound/songs/midi/mus_caught.o
+LOAD sound/songs/midi/mus_obtain_berry.o
+LOAD sound/songs/midi/mus_rg_encounter_deoxys.o
+LOAD sound/songs/midi/se_contest_icon_clear.o
+LOAD sound/songs/midi/mus_vs_elite_four.o
+LOAD sound/songs/midi/se_m_horn_attack.o
+LOAD sound/songs/midi/mus_rg_fuchsia.o
+LOAD sound/songs/midi/se_ledge.o
+LOAD sound/songs/midi/se_ship.o
+LOAD sound/songs/midi/se_thunderstorm_stop.o
+LOAD sound/songs/midi/mus_cycling.o
+LOAD sound/songs/midi/se_not_effective.o
+LOAD sound/songs/midi/mus_gsc_pewter.o
+LOAD sound/songs/midi/se_contest_icon_change.o
+LOAD sound/songs/midi/mus_rg_jigglypuff.o
+LOAD sound/songs/midi/se_sliding_door.o
+LOAD sound/songs/midi/se_ball_tray_ball.o
+LOAD sound/songs/midi/mus_vs_wild.o
+LOAD sound/songs/midi/se_downpour.o
+LOAD sound/songs/midi/mus_route111.o
+LOAD sound/songs/midi/mus_link_contest_p2.o
+LOAD sound/songs/midi/mus_move_deleted.o
+LOAD sound/songs/midi/se_roulette_ball2.o
+LOAD sound/songs/midi/mus_route104.o
+LOAD sound/songs/midi/mus_mt_chimney.o
+LOAD sound/songs/midi/ph_cloth_solo.o
+LOAD sound/songs/midi/se_berry_blender.o
+LOAD sound/songs/midi/se_ball_tray_exit.o
+LOAD sound/songs/midi/mus_b_pyramid_top.o
 LOAD ../../tools/agbcc/lib/libgcc.a
 LOAD ../../tools/agbcc/lib/libc.a
 LOAD ../../libagbsyscall/libagbsyscall.a
