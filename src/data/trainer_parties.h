@@ -1452,7 +1452,7 @@ static const struct TrainerMonItemDefaultMoves sParty_Cindy1[] = {
     {
     .iv = 0,
     .lvl = 7,
-    .species = SPECIES_ZIGZAGOON,
+    .species = SPECIES_YUNGOOS,
     .heldItem = ITEM_NUGGET
     }
 };
@@ -1496,9 +1496,9 @@ static const struct TrainerMonItemCustomMoves sParty_Cindy2[] = {
     {
     .iv = 0,
     .lvl = 11,
-    .species = SPECIES_ZIGZAGOON,
+    .species = SPECIES_YUNGOOS,
     .heldItem = ITEM_NUGGET,
-    .moves = {MOVE_TACKLE, MOVE_TAIL_WHIP, MOVE_NONE, MOVE_NONE}
+    .moves = {MOVE_TACKLE, MOVE_LEER, MOVE_NONE, MOVE_NONE}
     }
 };
 
@@ -1524,7 +1524,7 @@ static const struct TrainerMonItemDefaultMoves sParty_Cindy3[] = {
     {
     .iv = 10,
     .lvl = 27,
-    .species = SPECIES_LINOONE,
+    .species = SPECIES_GUMSHOOS,
     .heldItem = ITEM_NUGGET
     }
 };
@@ -1533,7 +1533,7 @@ static const struct TrainerMonItemDefaultMoves sParty_Cindy4[] = {
     {
     .iv = 20,
     .lvl = 30,
-    .species = SPECIES_LINOONE,
+    .species = SPECIES_GUMSHOOS,
     .heldItem = ITEM_NUGGET
     }
 };
@@ -1542,7 +1542,7 @@ static const struct TrainerMonItemDefaultMoves sParty_Cindy5[] = {
     {
     .iv = 30,
     .lvl = 33,
-    .species = SPECIES_LINOONE,
+    .species = SPECIES_GUMSHOOS,
     .heldItem = ITEM_NUGGET
     }
 };
@@ -1551,9 +1551,9 @@ static const struct TrainerMonItemCustomMoves sParty_Cindy6[] = {
     {
     .iv = 40,
     .lvl = 36,
-    .species = SPECIES_LINOONE,
+    .species = SPECIES_GUMSHOOS,
     .heldItem = ITEM_NUGGET,
-    .moves = {MOVE_FURY_SWIPES, MOVE_MUD_SPORT, MOVE_ODOR_SLEUTH, MOVE_SAND_ATTACK}
+    .moves = {MOVE_CRUNCH, MOVE_SCARY_FACE, MOVE_SUPER_FANG, MOVE_SAND_ATTACK}
     }
 };
 
@@ -4215,7 +4215,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Billy[] = {
     {
     .iv = 0,
     .lvl = 5,
-    .species = SPECIES_ZIGZAGOON,
+    .species = SPECIES_BIDOOF,
     },
     {
     .iv = 0,
@@ -7995,7 +7995,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Tiana[] = {
     {
     .iv = 0,
     .lvl = 4,
-    .species = SPECIES_ZIGZAGOON,
+    .species = SPECIES_LILLIPUP,
     },
     {
     .iv = 0,
@@ -8156,7 +8156,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Rick[] = {
     {
     .iv = 0,
     .lvl = 4,
-    .species = SPECIES_WURMPLE,
+    .species = SPECIES_KRICKETOT,
     }
 };
 
