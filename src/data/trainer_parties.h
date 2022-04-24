@@ -679,7 +679,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Lola1[] = {
     {
     .iv = 10,
     .lvl = 12,
-    .species = SPECIES_AZURILL,
+    .species = SPECIES_TYMPOLE,
     }
 };
 
@@ -708,7 +708,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Lola2[] = {
     {
     .iv = 10,
     .lvl = 26,
-    .species = SPECIES_MARILL,
+    .species = SPECIES_TYMPOLE,
     }
 };
 
@@ -721,7 +721,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Lola3[] = {
     {
     .iv = 20,
     .lvl = 29,
-    .species = SPECIES_MARILL,
+    .species = SPECIES_PALPITOAD,
     }
 };
 
@@ -734,20 +734,20 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Lola4[] = {
     {
     .iv = 30,
     .lvl = 32,
-    .species = SPECIES_MARILL,
+    .species = SPECIES_PALPITOAD,
     }
 };
 
 static const struct TrainerMonNoItemDefaultMoves sParty_Lola5[] = {
     {
     .iv = 40,
-    .lvl = 35,
+    .lvl = 36,
     .species = SPECIES_AZUMARILL,
     },
     {
     .iv = 40,
-    .lvl = 35,
-    .species = SPECIES_AZUMARILL,
+    .lvl = 36,
+    .species = SPECIES_SEISMITOAD,
     }
 };
 
@@ -769,7 +769,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Simon[] = {
     {
     .iv = 0,
     .lvl = 12,
-    .species = SPECIES_MARILL,
+    .species = SPECIES_WOOPER,
     }
 };
 
@@ -6372,7 +6372,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Huey[] = {
     {
     .iv = 10,
     .lvl = 12,
-    .species = SPECIES_MACHOP,
+    .species = SPECIES_DIGLETT,
     }
 };
 
@@ -6380,7 +6380,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Edmond[] = {
     {
     .iv = 0,
     .lvl = 13,
-    .species = SPECIES_WINGULL,
+    .species = SPECIES_MANTYKE,
     }
 };
 
@@ -6401,17 +6401,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Dwayne[] = {
     {
     .iv = 0,
     .lvl = 11,
-    .species = SPECIES_WINGULL,
+    .species = SPECIES_CHINCHOU,
     },
     {
     .iv = 0,
     .lvl = 11,
-    .species = SPECIES_MACHOP,
+    .species = SPECIES_CLOBBOPUS,
     },
     {
     .iv = 0,
     .lvl = 11,
-    .species = SPECIES_TENTACOOL,
+    .species = SPECIES_FINNEON,
     }
 };
 
@@ -9458,7 +9458,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Chandler[] = {
     {
     .iv = 0,
     .lvl = 12,
-    .species = SPECIES_TENTACOOL,
+    .species = SPECIES_BINACLE,
     }
 };
 
