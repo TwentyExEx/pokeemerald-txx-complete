@@ -2964,7 +2964,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_Drew),
-        .party = {.NoItemCustomMoves = sParty_Drew},
+        .party = {.NoItemDefaultMoves = sParty_Drew},
     },
 
     [TRAINER_BEAU] =
@@ -2978,7 +2978,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_Beau),
-        .party = {.NoItemCustomMoves = sParty_Beau},
+        .party = {.NoItemDefaultMoves = sParty_Beau},
     },
 
     [TRAINER_LARRY] =
@@ -4028,7 +4028,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = TRUE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_AnnaAndMeg1),
-        .party = {.NoItemCustomMoves = sParty_AnnaAndMeg1},
+        .party = {.NoItemDefaultMoves = sParty_AnnaAndMeg1},
     },
 
     [TRAINER_ANNA_AND_MEG_2] =
@@ -4042,7 +4042,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = TRUE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_AnnaAndMeg2),
-        .party = {.NoItemCustomMoves = sParty_AnnaAndMeg2},
+        .party = {.NoItemDefaultMoves = sParty_AnnaAndMeg2},
     },
 
     [TRAINER_ANNA_AND_MEG_3] =
@@ -4056,7 +4056,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = TRUE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_AnnaAndMeg3),
-        .party = {.NoItemCustomMoves = sParty_AnnaAndMeg3},
+        .party = {.NoItemDefaultMoves = sParty_AnnaAndMeg3},
     },
 
     [TRAINER_ANNA_AND_MEG_4] =
@@ -4070,7 +4070,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = TRUE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_AnnaAndMeg4),
-        .party = {.NoItemCustomMoves = sParty_AnnaAndMeg4},
+        .party = {.NoItemDefaultMoves = sParty_AnnaAndMeg4},
     },
 
     [TRAINER_ANNA_AND_MEG_5] =
@@ -4084,7 +4084,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = TRUE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_AnnaAndMeg5),
-        .party = {.NoItemCustomMoves = sParty_AnnaAndMeg5},
+        .party = {.NoItemDefaultMoves = sParty_AnnaAndMeg5},
     },
 
     [TRAINER_VICTOR] =
@@ -5876,7 +5876,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = 0,
         .partySize = ARRAY_COUNT(sParty_Lao1),
-        .party = {.NoItemCustomMoves = sParty_Lao1},
+        .party = {.NoItemDefaultMoves = sParty_Lao1},
     },
 
     [TRAINER_LUNG] =
@@ -5904,7 +5904,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = 0,
         .partySize = ARRAY_COUNT(sParty_Lao2),
-        .party = {.NoItemCustomMoves = sParty_Lao2},
+        .party = {.NoItemDefaultMoves = sParty_Lao2},
     },
 
     [TRAINER_LAO_3] =
@@ -5918,7 +5918,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = 0,
         .partySize = ARRAY_COUNT(sParty_Lao3),
-        .party = {.NoItemCustomMoves = sParty_Lao3},
+        .party = {.NoItemDefaultMoves = sParty_Lao3},
     },
 
     [TRAINER_LAO_4] =
@@ -5932,7 +5932,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = 0,
         .partySize = ARRAY_COUNT(sParty_Lao4),
-        .party = {.NoItemCustomMoves = sParty_Lao4},
+        .party = {.NoItemDefaultMoves = sParty_Lao4},
     },
 
     [TRAINER_LAO_5] =
@@ -5946,7 +5946,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = 0,
         .partySize = ARRAY_COUNT(sParty_Lao5),
-        .party = {.ItemCustomMoves = sParty_Lao5},
+        .party = {.NoItemDefaultMoves = sParty_Lao5},
     },
 
     [TRAINER_JOCELYN] =
@@ -6590,7 +6590,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = FALSE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_Becky),
-        .party = {.NoItemCustomMoves = sParty_Becky},
+        .party = {.NoItemDefaultMoves = sParty_Becky},
     },
 
     [TRAINER_CAROL] =
@@ -9516,7 +9516,7 @@ const struct Trainer gTrainers[] = {
         .doubleBattle = TRUE,
         .aiFlags = AI_FLAG_CHECK_BAD_MOVE,
         .partySize = ARRAY_COUNT(sParty_TyraAndIvy),
-        .party = {.NoItemCustomMoves = sParty_TyraAndIvy},
+        .party = {.NoItemDefaultMoves = sParty_TyraAndIvy},
     },
 
     [TRAINER_MEL_AND_PAUL] =
