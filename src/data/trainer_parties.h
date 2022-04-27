@@ -1361,7 +1361,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Tammy[] = {
     {
     .iv = 0,
     .lvl = 29,
-    .species = SPECIES_CORSOLA_GALAR,
+    .species = SPECIES_CORSOLA_GALARIAN,
     }
 };
 
@@ -3151,7 +3151,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_Walter3[] = {
     {
     .iv = 20,
     .lvl = 36,
-    .species = SPECIES_MRMIME_GALARIAN,
+    .species = SPECIES_MR_MIME_GALARIAN,
     .moves = {MOVE_MIRROR_COAT, MOVE_DAZZLING_GLEAM, MOVE_PSYBEAM, MOVE_ICY_WIND}
     },
     {
@@ -3166,7 +3166,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_Walter4[] = {
     {
     .iv = 30,
     .lvl = 39,
-    .species = SPECIES_MRMIME_GALARIAN,
+    .species = SPECIES_MR_MIME_GALARIAN,
     .moves = {MOVE_MIRROR_COAT, MOVE_DAZZLING_GLEAM, MOVE_PSYBEAM, MOVE_ICY_WIND}
     },
     {
@@ -3181,7 +3181,7 @@ static const struct TrainerMonNoItemCustomMoves sParty_Walter5[] = {
     {
     .iv = 40,
     .lvl = 41,
-    .species = SPECIES_MRMIME_GALARIAN,
+    .species = SPECIES_MR_MIME_GALARIAN,
     .moves = {MOVE_MIRROR_COAT, MOVE_DAZZLING_GLEAM, MOVE_PSYBEAM, MOVE_ICY_WIND}
     },
     {
@@ -3495,9 +3495,9 @@ static const struct TrainerMonItemCustomMoves sParty_Winona1[] = {
     {
     .iv = 210,
     .lvl = 29,
-    .species = SPECIES_SWABLU,
+    .species = SPECIES_TOGETIC,
     .heldItem = ITEM_NONE,
-    .moves = {MOVE_PERISH_SONG, MOVE_MIRROR_MOVE, MOVE_SAFEGUARD, MOVE_AERIAL_ACE}
+    .moves = {MOVE_ANCIENT_POWER, MOVE_METRONOME, MOVE_TOXIC, MOVE_AERIAL_ACE}
     },
     {
     .iv = 210,
@@ -3509,16 +3509,16 @@ static const struct TrainerMonItemCustomMoves sParty_Winona1[] = {
     {
     .iv = 210,
     .lvl = 30,
-    .species = SPECIES_PELIPPER,
+    .species = SPECIES_DRIFBLIM,
     .heldItem = ITEM_NONE,
-    .moves = {MOVE_WATER_GUN, MOVE_SUPERSONIC, MOVE_PROTECT, MOVE_AERIAL_ACE}
+    .moves = {MOVE_PHANTOM_FORCE, MOVE_ACROBATICS, MOVE_STRENGTH_SAP, MOVE_SHADOW_BALL}
     },
     {
     .iv = 220,
     .lvl = 31,
-    .species = SPECIES_SKARMORY,
+    .species = SPECIES_SIGILYPH,
     .heldItem = ITEM_NONE,
-    .moves = {MOVE_SAND_ATTACK, MOVE_FURY_ATTACK, MOVE_STEEL_WING, MOVE_AERIAL_ACE}
+    .moves = {MOVE_HYPNOSIS, MOVE_PSYBEAM, MOVE_AIR_CUTTER, MOVE_WHIRLWIND}
     },
     {
     .iv = 255,
@@ -5200,12 +5200,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Jared[] = {
     {
     .iv = 100,
     .lvl = 27,
-    .species = SPECIES_DODUO,
+    .species = SPECIES_ARCHEN,
     },
     {
     .iv = 100,
     .lvl = 27,
-    .species = SPECIES_SKARMORY,
+    .species = SPECIES_TRANQUILL,
     },
     {
     .iv = 100,
@@ -5218,7 +5218,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Humberto[] = {
     {
     .iv = 250,
     .lvl = 30,
-    .species = SPECIES_SKARMORY,
+    .species = SPECIES_RUFFLET,
     }
 };
 
@@ -5239,12 +5239,12 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Edwardo[] = {
     {
     .iv = 150,
     .lvl = 29,
-    .species = SPECIES_DODUO,
+    .species = SPECIES_MURKROW,
     },
     {
     .iv = 150,
     .lvl = 29,
-    .species = SPECIES_PELIPPER,
+    .species = SPECIES_PIDGEOTTO,
     }
 };
 
@@ -5257,7 +5257,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Colin[] = {
     {
     .iv = 0,
     .lvl = 28,
-    .species = SPECIES_ORICORIO-POMPOM,
+    .species = SPECIES_ORICORIO_POM_POM,
     }
 };
 
@@ -8664,7 +8664,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Flint[] = {
     {
     .iv = 150,
     .lvl = 29,
-    .species = SPECIES_SWELLOW,
+    .species = SPECIES_CHATOT,
     },
     {
     .iv = 150,
@@ -8677,17 +8677,17 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Ashley[] = {
     {
     .iv = 100,
     .lvl = 27,
-    .species = SPECIES_SWABLU,
+    .species = SPECIES_MANTINE,
     },
     {
     .iv = 100,
     .lvl = 27,
-    .species = SPECIES_SWABLU,
+    .species = SPECIES_YANMA,
     },
     {
     .iv = 100,
     .lvl = 27,
-    .species = SPECIES_SWABLU,
+    .species = SPECIES_JUMPLUFF,
     }
 };
 
@@ -10176,7 +10176,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Pat[] = {
     {
     .iv = 10,
     .lvl = 25,
-    .species = SPECIES_MIMEJR
+    .species = SPECIES_MIME_JR
     },
     {
     .iv = 10,
@@ -11537,7 +11537,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Darius[] = {
     {
     .iv = 200,
     .lvl = 30,
-    .species = SPECIES_TROPIUS,
+    .species = SPECIES_ORICORIO_PAU,
     }
 };
 
