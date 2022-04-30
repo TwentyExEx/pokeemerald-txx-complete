@@ -14563,7 +14563,6 @@ const u32 gTMHMLearnsets[][2] =
                                             | TMHM(HM03_SURF)
                                             | TMHM(TM12_TAUNT)
                                             | TMHM(TM06_TOXIC)
-											  TMHM(HM03_SURF)
                                             | TMHM(HM07_WATERFALL)
                                             | TMHM(TM03_WATER_PULSE)),
 
