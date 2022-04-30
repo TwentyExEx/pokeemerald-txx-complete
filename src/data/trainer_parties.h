@@ -3951,7 +3951,7 @@ static const struct TrainerMonItemDefaultMoves sParty_Victoria[] = {
     {
     .iv = 50,
     .lvl = 17,
-    .species = SPECIES_WHIRLIPEDE,
+    .species = SPECIES_VENIPEDE,
     .heldItem = ITEM_ORAN_BERRY
     }
 };
