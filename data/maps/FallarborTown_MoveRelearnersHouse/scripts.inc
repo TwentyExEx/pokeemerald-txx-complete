@@ -36,7 +36,6 @@ FallarborTown_MoveRelearnersHouse_EventScript_ChooseMove::
 	special TeachMoveRelearnerMove
 	waitstate
 	goto_if_eq VAR_0x8004, 0, FallarborTown_MoveRelearnersHouse_EventScript_ChooseMon
-	msgbox FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale, MSGBOX_DEFAULT
 	goto FallarborTown_MoveRelearnersHouse_EventScript_ComeBack
 	end
 
@@ -77,10 +76,6 @@ FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "Sorry…\p"
 	.string "It doesn't appear as if I have any move\n"
 	.string "I can teach that POKéMON.$"
-
-FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ComeBack:
 	.string "If your POKéMON need to learn a move,\n"
