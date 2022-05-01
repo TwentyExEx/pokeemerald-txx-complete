@@ -169,7 +169,7 @@
               {
                 "min_level": 3,
                 "max_level": 4,
-                "species": "SPECIES_PATRAT"
+                "species": "SPECIES_CUTIEFLY"
               },
               {
                 "min_level": 3,
@@ -874,7 +874,7 @@
               {
                 "min_level": 20,
                 "max_level": 23,
-                "species": "SPECIES_BALTOY"
+                "species": "SPECIES_HIPPOPOTAS"
               },
               {
                 "min_level": 20,
@@ -1048,7 +1048,7 @@
               {
                 "min_level": 14,
                 "max_level": 16,
-                "species": "SPECIES_NUMEL"
+                "species": "SPECIES_BUNEARY"
               },
               {
                 "min_level": 14,
@@ -1117,7 +1117,7 @@
               {
                 "min_level": 15,
                 "max_level": 18,
-                "species": "SPECIES_SPINDA"
+                "species": "SPECIES_MINCCINO"
               },
               {
                 "min_level": 15,
@@ -1206,7 +1206,7 @@
               {
                 "min_level": 16,
                 "max_level": 18,
-                "species": "SPECIES_SWABLU"
+                "species": "SPECIES_SPRITZEE"
               },
               {
                 "min_level": 16,
@@ -1216,7 +1216,7 @@
               {
                 "min_level": 16,
                 "max_level": 18,
-                "species": "SPECIES_SKORUPI"
+                "species": "SPECIES_AUDINO"
               },
               {
                 "min_level": 16,
@@ -1464,7 +1464,7 @@
               {
                 "min_level": 13,
                 "max_level": 14,
-                "species": "SPECIES_MUDBRAY"
+                "species": "SPECIES_COMFEY"
               },
               {
                 "min_level": 13,
@@ -2556,12 +2556,12 @@
               {
                 "min_level": 14,
                 "max_level": 16,
-                "species": "SPECIES_GRIMER"
+                "species": "SPECIES_PANSEAR"
               },
               {
                 "min_level": 14,
                 "max_level": 16,
-                "species": "SPECIES_DIGLETT"
+                "species": "SPECIES_DIGLETT_ALOLAN"
               },
               {
                 "min_level": 14,
@@ -3363,7 +3363,7 @@
               {
                 "min_level": 23,
                 "max_level": 26,
-                "species": "SPECIES_TOGEDEMARU"
+                "species": "SPECIES_DEDENNE"
               },
               {
                 "min_level": 23,
@@ -3720,12 +3720,12 @@
               {
                 "min_level": 26,
                 "max_level": 28,
-                "species": "SPECIES_WATCHOG"
+                "species": "SPECIES_CORVISQUIRE"
               },
               {
                 "min_level": 26,
                 "max_level": 28,
-                "species": "SPECIES_CORVISQUIRE"
+                "species": "SPECIES_FERROSEED"
               },
               {
                 "min_level": 26,
@@ -3958,7 +3958,7 @@
               {
                 "min_level": 26,
                 "max_level": 28,
-                "species": "SPECIES_MIGHTYENA"
+                "species": "SPECIES_PANCHAM"
               },
               {
                 "min_level": 26,
@@ -4546,7 +4546,7 @@
               {
                 "min_level": 27,
                 "max_level": 30,
-                "species": "SPECIES_DRIFLOON"
+                "species": "SPECIES_SPIRITOMB"
               },
               {
                 "min_level": 27,
@@ -4566,7 +4566,7 @@
               {
                 "min_level": 27,
                 "max_level": 30,
-                "species": "SPECIES_MAROWAK_ALOLAN"
+                "species": "SPECIES_DREEPY"
               },
               {
                 "min_level": 27,
@@ -4581,7 +4581,7 @@
               {
                 "min_level": 27,
                 "max_level": 30,
-                "species": "SPECIES_DREEPY"
+                "species": "SPECIES_MAROWAK_ALOLAN"
               }
             ]
           }
@@ -6889,7 +6889,7 @@
               {
                 "min_level": 23,
                 "max_level": 26,
-                "species": "SPECIES_TOGEDEMARU"
+                "species": "SPECIES_DEDENNE"
               },
               {
                 "min_level": 23,
