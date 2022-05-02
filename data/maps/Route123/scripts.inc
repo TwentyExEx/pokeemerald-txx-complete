@@ -170,6 +170,34 @@ Route123_EventScript_RematchFernando::
 	msgbox Route123_Text_FernandoPostRematch, MSGBOX_AUTOCLOSE
 	end
 
+Route123_EventScript_Snorlax::
+	lock
+	msgbox Route123_EventScript_SnorlaxText, MSGBOX_YESNO
+	goto_if_eq VAR_RESULT, YES, Route123_EventScript_SnorlaxAccept
+	goto_if_eq VAR_RESULT, NO, Route123_EventScript_SnorlaxDecline
+	end
+
+Route123_EventScript_SnorlaxText::
+	.string "A POKéMON sleeps soundly...\p"
+	.string "Will you wake the POKéMON?$"
+
+Route123_EventScript_SnorlaxAccept::
+	playmoncry SPECIES_SNORLAX, CRY_MODE_ENCOUNTER
+	delay 40
+	waitmoncry
+	setwildbattle SPECIES_SNORLAX, 30
+	dowildbattle
+	release
+	end
+	
+Route123_EventScript_SnorlaxDecline::
+	msgbox Route123_EventScript_SnorlaxNoText, MSGBOX_DEFAULT
+	release
+	end
+	
+Route123_EventScript_SnorlaxNoText::
+	.string "You leave the POKéMON be.$"
+
 Route123_Text_LoveGrassMonsHaveAny:
 	.string "I love GRASS-type POKéMON!\p"
 	.string "Do you have any GRASS-type POKéMON?$"
@@ -195,4 +223,5 @@ Route123_Text_RouteSignMtPyre:
 
 Route123_Text_BerryMastersHouse:
 	.string "BERRY MASTER'S HOUSE$"
+
 
