@@ -32,6 +32,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntAquaHideout3[] = {
     .iv = 0,
     .lvl = 32,
     .species = SPECIES_MANTYKE
+}
 };
 
 static const struct TrainerMonNoItemDefaultMoves sParty_GruntAquaHideout4[] = {
@@ -5926,7 +5927,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Linda[] = {
     {
     .iv = 0,
     .lvl = 38,
-    .species = SPECIES_GORYBYSS,
+    .species = SPECIES_GOREBYSS,
     }
 };
 
@@ -9078,7 +9079,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Aidan[] = {
     {
     .iv = 0,
     .lvl = 32,
-    .species = SPECIES_ORICORIO_BAILE,
+    .species = SPECIES_ORICORIO,
     }
 };
 
