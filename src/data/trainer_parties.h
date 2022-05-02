@@ -59,7 +59,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_GruntSeafloorCavern2[] =
     }
 };
 
-static const struct TrainerMonNoItemDefaultMoves sParty_GruntSeafloor	3[] = {
+static const struct TrainerMonNoItemDefaultMoves sParty_GruntSeafloorCavern3[] = {
     {
     .iv = 0,
     .lvl = 36,

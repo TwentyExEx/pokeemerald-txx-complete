@@ -48841,7 +48841,7 @@ gfx_data        0x000000000919fcfc   0x4ff5ac
  .debug_pubnames
                 0x00000000000685e1    0x43720 src/graphics.o
 
-.debug_info     0x0000000000000000  0x1b53e0d
+.debug_info     0x0000000000000000  0x1b53e0c
  *(.debug_info .gnu.linkonce.wi.*)
  .debug_info    0x0000000000000000    0x11d21 src/decompress.o
  .debug_info    0x0000000000011d21    0x1ab7b src/main.o
@@ -49141,14 +49141,14 @@ gfx_data        0x000000000919fcfc   0x4ff5ac
  .debug_info    0x00000000019c5bc6     0x1342 src/libisagbprn.o
  .debug_info    0x00000000019c6f08    0x10537 gflib/io_reg.o
  .debug_info    0x00000000019d743f    0x11b7b src/mystery_gift_scripts.o
- .debug_info    0x00000000019e8fba    0x75b2b src/data.o
- .debug_info    0x0000000001a5eae5    0x2817f src/strings.o
- .debug_info    0x0000000001a86c64    0x1122e src/text_input_strings.o
- .debug_info    0x0000000001a97e92    0x108c1 src/fonts.o
- .debug_info    0x0000000001aa8753    0x10742 src/mystery_event_msg.o
- .debug_info    0x0000000001ab8e95     0x2001 src/m4a_tables.o
- .debug_info    0x0000000001abae96      0xdbb src/agb_flash_le.o
- .debug_info    0x0000000001abbc51    0x981bc src/graphics.o
+ .debug_info    0x00000000019e8fba    0x75b2a src/data.o
+ .debug_info    0x0000000001a5eae4    0x2817f src/strings.o
+ .debug_info    0x0000000001a86c63    0x1122e src/text_input_strings.o
+ .debug_info    0x0000000001a97e91    0x108c1 src/fonts.o
+ .debug_info    0x0000000001aa8752    0x10742 src/mystery_event_msg.o
+ .debug_info    0x0000000001ab8e94     0x2001 src/m4a_tables.o
+ .debug_info    0x0000000001abae95      0xdbb src/agb_flash_le.o
+ .debug_info    0x0000000001abbc50    0x981bc src/graphics.o
 
 .debug_abbrev   0x0000000000000000    0x32fb7
  *(.debug_abbrev)
