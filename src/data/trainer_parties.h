@@ -7225,7 +7225,7 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Halle[] = {
     {
     .iv = 0,
     .lvl = 45,
-    .species = SPECIES_GALIE,
+    .species = SPECIES_GLALIE,
     }
 };
 
