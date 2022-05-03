@@ -3270,7 +3270,7 @@ static const struct TrainerMonItemCustomMoves sParty_Phoebe[] = {
     .lvl = 53,
     .species = SPECIES_BANETTE,
     .heldItem = ITEM_BANETTITE,
-    .moves = {MOVE_PHANTOM_FORCE, MOVE_KNOCK_OFF, MOVE_SHADOW_SNEAK, MOVE_WILL-O-WISP}
+    .moves = {MOVE_PHANTOM_FORCE, MOVE_KNOCK_OFF, MOVE_SHADOW_SNEAK, MOVE_WILL_O_WISP}
     }
 };
 
