@@ -603,11 +603,11 @@ Route110_TrickHousePuzzle8_EventScript_ItemBeadMail::
 	end
 
 VictoryRoad_1F_EventScript_ItemMaxElixir::
-	finditem ITEM_MAX_ELIXIR
+	finditem ITEM_MEGA_RING
 	end
 
 VictoryRoad_1F_EventScript_ItemPPUp::
-	finditem ITEM_PP_UP
+	finditem ITEM_BLAZIKENITE
 	end
 
 VictoryRoad_B1F_EventScript_ItemTM29::
@@ -615,7 +615,7 @@ VictoryRoad_B1F_EventScript_ItemTM29::
 	end
 
 VictoryRoad_B1F_EventScript_ItemFullRestore::
-	finditem ITEM_FULL_RESTORE
+	finditem ITEM_MAWILITE
 	end
 
 VictoryRoad_B2F_EventScript_ItemFullHeal::
