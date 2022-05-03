@@ -6698,35 +6698,40 @@ static const struct TrainerMonNoItemDefaultMoves sParty_Edwin5[] = {
     }
 };
 
-static const struct TrainerMonNoItemCustomMoves sParty_WallyVR1[] = {
+static const struct TrainerMonItemCustomMoves sParty_WallyVR1[] = {
     {
     .iv = 150,
     .lvl = 47,
     .species = SPECIES_ALTARIA,
+	.heldItem = ITEM_NONE,
     .moves = {MOVE_MOONBLAST, MOVE_SAFEGUARD, MOVE_DRAGON_PULSE, MOVE_DRAGON_DANCE}
     },
     {
     .iv = 150,
     .lvl = 46,
     .species = SPECIES_DUBWOOL,
+	.heldItem = ITEM_NONE,
     .moves = {MOVE_HEADBUTT, MOVE_COPYCAT, MOVE_REVERSAL, MOVE_COTTON_GUARD}
     },
     {
     .iv = 150,
     .lvl = 47,
     .species = SPECIES_ROSERADE,
+	.heldItem = ITEM_NONE,
     .moves = {MOVE_PETAL_DANCE, MOVE_TOXIC, MOVE_POISON_STING, MOVE_GIGA_DRAIN}
     },
     {
     .iv = 150,
     .lvl = 44,
     .species = SPECIES_TOGEDEMARU,
+	.heldItem = ITEM_NONE,
     .moves = {MOVE_ZING_ZAP, MOVE_SPARK, MOVE_PIN_MISSILE, MOVE_MAGNET_RISE}
     },
     {
     .iv = 250,
     .lvl = 49,
     .species = SPECIES_GARDEVOIR,
+	.heldItem = ITEM_GARDEVOIRITE,
     .moves = {MOVE_DAZZLING_GLEAM, MOVE_CALM_MIND, MOVE_PSYCHIC, MOVE_FUTURE_SIGHT}
     }
 };
