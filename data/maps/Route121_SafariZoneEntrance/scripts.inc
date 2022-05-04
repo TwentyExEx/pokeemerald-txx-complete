@@ -68,6 +68,7 @@ Route121_SafariZoneEntrance_EventScript_TryEnterSafariZone::
 	playfanfare MUS_OBTAIN_ITEM
 	message Route121_SafariZoneEntrance_Text_Received30SafariBalls
 	waitfanfare
+	call_if_unset FLAG_SYS_NATIONAL_DEX, Route121_SafariZoneEntrance_EventScript_GiveNationalDex
 	msgbox Route121_SafariZoneEntrance_Text_PleaseEnjoyYourself, MSGBOX_DEFAULT
 	closemessage
 	hidemoneybox
@@ -78,6 +79,15 @@ Route121_SafariZoneEntrance_EventScript_TryEnterSafariZone::
 	clearflag FLAG_GOOD_LUCK_SAFARI_ZONE
 	warp MAP_SAFARI_ZONE_SOUTH, 32, 33
 	waitstate
+	end
+
+Route121_SafariZoneEntrance_EventScript_GiveNationalDex::
+	msgbox Route121_SafariZoneEntrance_Text_GiveNationalDex, MSGBOX_DEFAULT
+	checkflag FLAG_SYS_NATIONAL_DEX
+	special EnableNationalPokedex
+	playfanfare MUS_OBTAIN_ITEM
+	message Route121_SafariZoneEntrance_Text_ReceivedNationalDex
+	waitfanfare
 	end
 
 Route121_SafariZoneEntrance_EventScript_CheckHasRoomForPokemon::
