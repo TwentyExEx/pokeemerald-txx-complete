@@ -71,6 +71,7 @@ Route121_SafariZoneEntrance_EventScript_TryEnterSafariZone::
 	msgbox Route121_SafariZoneEntrance_Text_PleaseEnjoyYourself, MSGBOX_DEFAULT
 	closemessage
 	hidemoneybox
+	call_if_unset FLAG_HIDE_SAFARI_ZONE_SOUTH_CONSTRUCTION_WORKERS, Route121_SafariZoneEntrance_EventScript_ClearConstructionWorkers
 	applymovement OBJ_EVENT_ID_PLAYER, Route121_SafariZoneEntrance_Movement_EnterSafariZone
 	waitmovement 0
 	special EnterSafariMode
@@ -78,6 +79,10 @@ Route121_SafariZoneEntrance_EventScript_TryEnterSafariZone::
 	clearflag FLAG_GOOD_LUCK_SAFARI_ZONE
 	warp MAP_SAFARI_ZONE_SOUTH, 32, 33
 	waitstate
+	end
+
+Route121_SafariZoneEntrance_EventScript_ClearConstructionWorkers::
+	setflag FLAG_HIDE_SAFARI_ZONE_SOUTH_CONSTRUCTION_WORKERS
 	end
 
 Route121_SafariZoneEntrance_EventScript_CheckHasRoomForPokemon::
