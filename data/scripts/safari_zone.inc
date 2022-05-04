@@ -143,12 +143,6 @@ Route121_SafariZoneEntrance_Text_HereAreYourSafariBalls:
 Route121_SafariZoneEntrance_Text_Received30SafariBalls:
 	.string "{PLAYER} received 30 SAFARI BALLS.$"
 
-Route121_SafariZoneEntrance_Text_GiveNationalDex:
-	.string "And here is the NATIONAL POKéDEX.$"
-
-Route121_SafariZoneEntrance_Text_ReceivedNationalDex:
-	.string "{PLAYER} received NATIONAL POKéDEX.$"
-
 Route121_SafariZoneEntrance_Text_PleaseEnjoyYourself:
 	.string "We'll let you know when your game\n"
 	.string "is over.\p"
