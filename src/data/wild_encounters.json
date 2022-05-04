@@ -6998,7 +6998,7 @@
               {
                 "min_level": 20,
                 "max_level": 30,
-                "species": "SPECIES_PSYDUCK"
+                "species": "SPECIES_SIMIPOUR"
               },
               {
                 "min_level": 20,
@@ -7008,17 +7008,17 @@
               {
                 "min_level": 30,
                 "max_level": 35,
-                "species": "SPECIES_PSYDUCK"
+                "species": "SPECIES_GOLDUCK"
               },
               {
                 "min_level": 30,
                 "max_level": 35,
-                "species": "SPECIES_PSYDUCK"
+                "species": "SPECIES_GOLDUCK"
               },
               {
                 "min_level": 30,
                 "max_level": 35,
-                "species": "SPECIES_PSYDUCK"
+                "species": "SPECIES_GOLDUCK"
               }
             ]
           },
@@ -9237,12 +9237,12 @@
               {
                 "min_level": 34,
                 "max_level": 38,
-                "species": "SPECIES_BRAVIARY"
+                "species": "SPECIES_RUFFLET"
               },
               {
                 "min_level": 34,
                 "max_level": 38,
-                "species": "SPECIES_MANDIBUZZ"
+                "species": "SPECIES_VULLABY"
               },
               {
                 "min_level": 34,
@@ -9454,12 +9454,12 @@
               {
                 "min_level": 34,
                 "max_level": 39,
-                "species": "SPECIES_BRAVIARY"
+                "species": "SPECIES_RUFFLET"
               },
               {
                 "min_level": 34,
                 "max_level": 39,
-                "species": "SPECIES_MANDIBUZZ"
+                "species": "SPECIES_VULLABY"
               },
               {
                 "min_level": 34,
