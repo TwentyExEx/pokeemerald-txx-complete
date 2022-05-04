@@ -661,3 +661,7 @@ MagmaHideout_3F_3R_EventScript_ItemEscapeRope::
 SootopolisCity_EventScript_ItemMegaRing::
 	finditem ITEM_MEGA_RING
 	end
+
+GraniteCave_B2F_EventScript_ItemAggronite::
+	finditem ITEM_AGGRONITE
+	end
