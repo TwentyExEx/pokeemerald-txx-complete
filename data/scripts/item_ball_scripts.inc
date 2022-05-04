@@ -661,4 +661,3 @@ MagmaHideout_3F_3R_EventScript_ItemEscapeRope::
 SootopolisCity_EventScript_ItemMegaRing::
 	finditem ITEM_MEGA_RING
 	end
-	
