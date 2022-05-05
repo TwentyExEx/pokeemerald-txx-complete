@@ -665,3 +665,39 @@ SootopolisCity_EventScript_ItemMegaRing::
 GraniteCave_B2F_EventScript_ItemAggronite::
 	finditem ITEM_AGGRONITE
 	end
+
+Route115_EventScript_ItemAlakazite::
+	finditem ITEM_ALAKAZITE
+	end
+	
+Route114_EventScript_ItemAltarianite::
+	finditem ITEM_ALTARIANITE
+	end
+	
+Route114_EventScript_ItemAmpharosite::
+	finditem ITEM_AMPHAROSITE
+	end
+	
+MtPyre_3F_EventScript_ItemBanettite::
+	finditem ITEM_BANETTITE
+	end
+	
+Route114_EventScript_ItemAbsolite::
+	finditem ITEM_ABSOLITE
+	end
+	
+Route102_EventScript_ItemGalladite::
+	finditem ITEM_GALLADITE
+	end
+	
+Route131_EventScript_ItemAerodactylite::
+	finditem ITEM_AERODACTYLITE
+	end
+	
+MagmaHideout_4F_EventScript_ItemCameruptite::
+	finditem ITEM_CAMERUPTITE
+	end
+	
+PetalburgCity_EventScript_ItemGardevoirite::	
+	finditem ITEM_GARDEVOIRITE
+	end

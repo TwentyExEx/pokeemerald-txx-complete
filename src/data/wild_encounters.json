@@ -2440,7 +2440,7 @@
                 "species": "SPECIES_ARON"
               },
               {
-                "min_level": 10,
+                "min_level": 9,
                 "max_level": 12,
                 "species": "SPECIES_ZUBAT"
               },
@@ -2496,6 +2496,36 @@
               }
             ]
           },
+          "water_mons": {
+            "encounter_rate": 4,
+            "mons": [
+              {
+                "min_level": 20,
+                "max_level": 35,
+                "species": "SPECIES_CHEWTLE"
+              },
+              {
+                "min_level": 20,
+                "max_level": 35,
+                "species": "SPECIES_KABUTO"
+              },
+              {
+                "min_level": 20,
+                "max_level": 35,
+                "species": "SPECIES_CORSOLA"
+              },
+              {
+                "min_level": 20,
+                "max_level": 35,
+                "species": "SPECIES_CORSOLA"
+              },
+              {
+                "min_level": 20,
+                "max_level": 35,
+                "species": "SPECIES_CORSOLA"
+              }
+            ]
+          },
           "rock_smash_mons": {
             "encounter_rate": 20,
             "mons": [
@@ -2523,6 +2553,61 @@
                 "min_level": 15,
                 "max_level": 20,
                 "species": "SPECIES_GEODUDE"
+              }
+            ]
+          },
+          "fishing_mons": {
+            "encounter_rate": 20,
+            "mons": [
+              {
+                "min_level": 5,
+                "max_level": 10,
+                "species": "SPECIES_MAGIKARP"
+              },
+              {
+                "min_level": 5,
+                "max_level": 10,
+                "species": "SPECIES_TENTACOOL"
+              },
+              {
+                "min_level": 10,
+                "max_level": 30,
+                "species": "SPECIES_MAGIKARP"
+              },
+              {
+                "min_level": 10,
+                "max_level": 30,
+                "species": "SPECIES_TENTACOOL"
+              },
+              {
+                "min_level": 10,
+                "max_level": 30,
+                "species": "SPECIES_TENTACOOL"
+              },
+              {
+                "min_level": 25,
+                "max_level": 30,
+                "species": "SPECIES_TENTACOOL"
+              },
+              {
+                "min_level": 30,
+                "max_level": 35,
+                "species": "SPECIES_TENTACOOL"
+              },
+              {
+                "min_level": 30,
+                "max_level": 35,
+                "species": "SPECIES_TENTACRUEL"
+              },
+              {
+                "min_level": 25,
+                "max_level": 30,
+                "species": "SPECIES_TENTACRUEL"
+              },
+              {
+                "min_level": 20,
+                "max_level": 25,
+                "species": "SPECIES_TENTACRUEL"
               }
             ]
           }
