@@ -701,3 +701,19 @@ MagmaHideout_4F_EventScript_ItemCameruptite::
 PetalburgCity_EventScript_ItemGardevoirite::	
 	finditem ITEM_GARDEVOIRITE
 	end
+	
+ShoalCave_LowTideIceRoom_EventScript_Glalitite::	
+	finditem ITEM_GLALITITE
+	end
+	
+EverGrandeCity_EventScript_Gyaradosite::
+	finditem ITEM_GYARADOSITE
+	end
+	
+SafariZone_North_EventScript_ItemHeracronite::
+	finditem ITEM_HERACRONITE
+	end
+
+SafariZone_Northeast_EventScript_ItemKangaskhanite::
+	finditem ITEM_KANGASKHANITE
+	end

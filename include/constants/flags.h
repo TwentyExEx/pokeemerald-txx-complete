@@ -1228,10 +1228,10 @@
 #define FLAG_ITEM_ROUTE_131_AERODACTYLITE                           0x49B // Unused Flag
 #define FLAG_ITEM_MAGMA_HIDEOUT_4F_CAMERUPTITE                      0x49C // Unused Flag
 #define FLAG_ITEM_PETALBURG_CITY_GARDEVOIRITE                       0x49D // Unused Flag
-#define FLAG_UNUSED_0x49E                                           0x49E // Unused Flag
-#define FLAG_UNUSED_0x49F                                           0x49F // Unused Flag
-#define FLAG_UNUSED_0x4A0                                           0x4A0 // Unused Flag
-#define FLAG_UNUSED_0x4A1                                           0x4A1 // Unused Flag
+#define FLAG_ITEM_SHOAL_CAVE_ICE_ROOM_GLALITITE                     0x49E // Unused Flag
+#define FLAG_ITEM_EVER_GRANDE_CITY_GYARADOSITE                      0x49F // Unused Flag
+#define FLAG_ITEM_SAFARI_ZONE_NORTH_HERACRONITE                     0x4A0 // Unused Flag
+#define FLAG_ITEM_SAFARI_ZONE_NORTH_EAST_KANGASKHANITE              0x4A1 // Unused Flag
 #define FLAG_UNUSED_0x4A2                                           0x4A2 // Unused Flag
 #define FLAG_UNUSED_0x4A3                                           0x4A3 // Unused Flag
 #define FLAG_UNUSED_0x4A4                                           0x4A4 // Unused Flag

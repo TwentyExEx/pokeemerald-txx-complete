@@ -7217,7 +7217,7 @@
               {
                 "min_level": 25,
                 "max_level": 30,
-                "species": "SPECIES_KANGASKHAN"
+                "species": "SPECIES_SHUCKLE"
               },
               {
                 "min_level": 25,
@@ -7227,7 +7227,7 @@
               {
                 "min_level": 25,
                 "max_level": 30,
-                "species": "SPECIES_KANGASKHAN"
+                "species": "SPECIES_SHUCKLE"
               }
             ]
           },
@@ -9807,7 +9807,7 @@
               {
                 "min_level": 25,
                 "max_level": 30,
-                "species": "SPECIES_SHUCKLE"
+                "species": "SPECIES_KANGASKHAN"
               },
               {
                 "min_level": 25,
@@ -9817,7 +9817,7 @@
               {
                 "min_level": 25,
                 "max_level": 30,
-                "species": "SPECIES_SHUCKLE"
+                "species": "SPECIES_KANGASKHAN"
               }
             ]
           },
