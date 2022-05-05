@@ -674,7 +674,7 @@ Route114_EventScript_ItemAltarianite::
 	finditem ITEM_ALTARIANITE
 	end
 	
-Route114_EventScript_ItemAmpharosite::
+Route121_EventScript_ItemAmpharosite::
 	finditem ITEM_AMPHAROSITE
 	end
 	
