@@ -4414,12 +4414,32 @@
     {
       "id": "LAYOUT_UNDERWATER103",
       "name": "Underwater103_Layout",
-      "width": 40,
+      "width": 80,
       "height": 22,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Underwater",
       "border_filepath": "data/layouts/Underwater103/border.bin",
       "blockdata_filepath": "data/layouts/Underwater103/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNIFIED_CAVE",
+      "name": "UnifiedCave_Layout",
+      "width": 20,
+      "height": 20,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/UnifiedCave/border.bin",
+      "blockdata_filepath": "data/layouts/UnifiedCave/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNDERWATER_UNIFIED_CAVE",
+      "name": "Underwater_UnifiedCave_Layout",
+      "width": 20,
+      "height": 10,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Underwater",
+      "border_filepath": "data/layouts/Underwater_UnifiedCave/border.bin",
+      "blockdata_filepath": "data/layouts/Underwater_UnifiedCave/map.bin"
     }
   ]
 }

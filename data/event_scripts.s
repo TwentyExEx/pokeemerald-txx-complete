@@ -1058,3 +1058,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/birch_speech.inc"
 
 	.include "data/maps/Underwater103/scripts.inc"
+
+	.include "data/maps/UnifiedCave/scripts.inc"
+
+	.include "data/maps/Underwater_UnifiedCave/scripts.inc"

@@ -1,12 +1,12 @@
 {
-  "id": "MAP_UNDERWATER103",
-  "name": "Underwater103",
-  "layout": "LAYOUT_UNDERWATER103",
+  "id": "MAP_UNDERWATER_UNIFIED_CAVE",
+  "name": "Underwater_UnifiedCave",
+  "layout": "LAYOUT_UNDERWATER_UNIFIED_CAVE",
   "music": "MUS_ABANDONED_SHIP",
-  "region_map_section": "MAPSEC_ROUTE_103",
+  "region_map_section": "MAPSEC_LITTLEROOT_TOWN",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
-  "map_type": "MAP_TYPE_UNDERWATER",
+  "map_type": "MAP_TYPE_NONE",
   "allow_cycling": false,
   "allow_escaping": false,
   "allow_running": false,
@@ -18,10 +18,10 @@
   ],
   "warp_events": [
     {
-      "x": 13,
-      "y": 5,
+      "x": 9,
+      "y": 8,
       "elevation": 0,
-      "dest_map": "MAP_UNDERWATER_UNIFIED_CAVE",
+      "dest_map": "MAP_UNDERWATER103",
       "dest_warp_id": 0
     }
   ],

@@ -23,7 +23,7 @@
       "offset": -60,
       "map": "MAP_ROUTE110"
     },
-	    {
+    {
       "direction": "dive",
       "offset": 0,
       "map": "MAP_UNDERWATER103"
