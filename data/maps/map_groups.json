@@ -433,7 +433,8 @@
     "AlteringCave",
     "MeteorFalls_StevensCave",
     "UnifiedCave",
-    "Underwater_UnifiedCave"
+    "Underwater_UnifiedCave",
+    "UnifiedCave_Entrance"
   ],
   "gMapGroup_IndoorDynamic": [
     "SecretBase_RedCave1",

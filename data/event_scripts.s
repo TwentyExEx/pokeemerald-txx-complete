@@ -1062,3 +1062,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/UnifiedCave/scripts.inc"
 
 	.include "data/maps/Underwater_UnifiedCave/scripts.inc"
+
+	.include "data/maps/UnifiedCave_Entrance/scripts.inc"
