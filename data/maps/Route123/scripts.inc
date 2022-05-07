@@ -1,10 +1,28 @@
+.set LOCALID_SNORLAX, 44
+
 Route123_MapScripts::
+	map_script MAP_SCRIPT_ON_RESUME, Route123_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, Route123_OnTransition
 	.byte 0
 
+Route123_OnResume:
+	call_if_set FLAG_SYS_CTRL_OBJ_DELETE, Route123_EventScript_TryRemoveSnorlax
+	end
+
+Route123_EventScript_TryRemoveSnorlax::
+	specialvar VAR_RESULT, GetBattleOutcome
+	goto_if_ne VAR_RESULT, B_OUTCOME_CAUGHT, Common_EventScript_NopReturn
+	removeobject VAR_LAST_TALKED
+	return
+
 Route123_OnTransition:
 	special SetRoute123Weather
+	call_if_unset FLAG_DEFEATED_SNORLAX, Route123_EventScript_ShowSnorlax
 	end
+
+Route123_EventScript_ShowSnorlax::
+	clearflag FLAG_HIDE_ROUTE123_SNORLAX
+	return
 
 Route123_EventScript_GigaDrainGirl::
 	lock
@@ -182,12 +200,21 @@ Route123_EventScript_SnorlaxText::
 	.string "Will you wake the POKéMON?$"
 
 Route123_EventScript_SnorlaxAccept::
+	lockall
+	waitse
 	playmoncry SPECIES_SNORLAX, CRY_MODE_ENCOUNTER
 	delay 40
 	waitmoncry
+	setvar VAR_LAST_TALKED, LOCALID_SNORLAX
 	setwildbattle SPECIES_SNORLAX, 30
+	setflag FLAG_SYS_CTRL_OBJ_DELETE
 	dowildbattle
-	release
+	clearflag FLAG_SYS_CTRL_OBJ_DELETE
+	specialvar VAR_RESULT, GetBattleOutcome
+	goto_if_eq VAR_RESULT, B_OUTCOME_WON, Route123_EventScript_DefeatedSnorlax
+	goto_if_eq VAR_RESULT, B_OUTCOME_RAN, Route123_EventScript_RanFromSnorlax
+	goto_if_eq VAR_RESULT, B_OUTCOME_PLAYER_TELEPORTED, Route123_EventScript_RanFromSnorlax
+	releaseall
 	end
 	
 Route123_EventScript_SnorlaxDecline::
@@ -197,6 +224,22 @@ Route123_EventScript_SnorlaxDecline::
 	
 Route123_EventScript_SnorlaxNoText::
 	.string "You leave the POKéMON be.$"
+
+Route123_EventScript_DefeatedSnorlax::
+	setflag FLAG_SYS_CTRL_OBJ_DELETE
+	setflag FLAG_DEFEATED_SNORLAX
+	goto Common_EventScript_RemoveStaticPokemon
+	end
+
+Route123_EventScript_RanFromSnorlax::
+	setvar VAR_0x8004, SPECIES_SNORLAX
+	goto Common_EventScript_RanFromStaticPokemon
+	release
+	end
+
+Route123_Text_RanFromSnorlax::
+	.string "I love GRASS-type POKéMON!\p"
+	.string "Do you have any GRASS-type POKéMON?$"
 
 Route123_Text_LoveGrassMonsHaveAny:
 	.string "I love GRASS-type POKéMON!\p"
@@ -223,5 +266,3 @@ Route123_Text_RouteSignMtPyre:
 
 Route123_Text_BerryMastersHouse:
 	.string "BERRY MASTER'S HOUSE$"
-
-
